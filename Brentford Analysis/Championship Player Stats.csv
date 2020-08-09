@@ -1,0 +1,722 @@
+,Rk,Player,Nation,Pos,Squad,Age,Born,Matches Played,Starts,Minutes Played,Goals,Assists,Penalty Kicks,Penalties Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals+Assists/90,Goals-Penalties/90,Goals+Assists-Penalties/90
+0,1,Josh Davison,eng ENG,FW,Charlton Ath,,,9,5,393,1,0,0,0,0,0,0.23,0.0,0.23,0.23,0.23
+1,2,Charlie Adam,sco SCO,MF,Reading,33.0,1985.0,21,8,782,2,1,1,1,4,0,0.23,0.12,0.35,0.12,0.23
+2,3,Tosin Adarabioyo,eng ENG,DF,Blackburn,21.0,1997.0,34,33,2966,3,1,0,0,0,0,0.09,0.03,0.12,0.09,0.12
+3,4,Albert Adomah,gh GHA,MFFW,Cardiff City,31.0,1987.0,9,9,733,0,2,0,0,2,0,0.0,0.25,0.25,0.0,0.25
+4,5,Albert Adomah,gh GHA,MF,Nott'ham Forest,31.0,1987.0,24,5,612,2,1,0,0,2,0,0.29,0.15,0.44,0.29,0.44
+5,6,Benik Afobe,cd COD,FW,Bristol City,26.0,1993.0,12,8,739,3,0,1,1,0,0,0.37,0.0,0.37,0.24,0.24
+6,7,Benik Afobe,cd COD,FW,Stoke City,26.0,1993.0,1,1,70,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+7,8,Semi Ajayi,ng NGA,DF,West Brom,25.0,1993.0,43,42,3783,5,0,0,0,5,0,0.12,0.0,0.12,0.12,0.12
+8,9,Ezgjan Alioski,mk MKD,DFMF,Leeds United,27.0,1992.0,39,21,2262,5,3,0,0,8,0,0.2,0.12,0.32,0.2,0.32
+9,10,Joe Allen,wal WAL,MF,Stoke City,29.0,1990.0,35,34,2938,4,2,0,0,5,1,0.12,0.06,0.18,0.12,0.18
+10,11,Sone Aluko,ng NGA,FWMF,Reading,30.0,1989.0,2,0,41,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+11,12,Sammy Ameobi,eng ENG,MFFW,Nott'ham Forest,27.0,1992.0,45,37,3095,5,7,0,0,7,0,0.15,0.2,0.35,0.15,0.35
+12,13,Luke Amos,eng ENG,MF,QPR,22.0,1997.0,34,26,2111,2,0,0,0,5,0,0.09,0.0,0.09,0.09,0.09
+13,14,Chuks Aneke,eng ENG,FW,Charlton Ath,26.0,1993.0,20,2,589,1,1,0,0,2,0,0.15,0.15,0.31,0.15,0.31
+14,15,Felipe Araruna,br BRA,MF,Reading,23.0,1996.0,3,2,163,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+15,16,Adam Armstrong,eng ENG,MFFW,Blackburn,22.0,1997.0,46,40,3471,16,6,2,2,0,0,0.41,0.16,0.57,0.36,0.52
+16,17,Harry Arter,ie IRL,MF,Fulham,29.0,1989.0,28,21,1724,2,1,0,0,7,1,0.1,0.05,0.16,0.1,0.16
+17,18,Britt Assombalonga,cd COD,FW,Middlesbrough,26.0,1992.0,35,27,2511,11,2,1,2,2,0,0.39,0.07,0.47,0.36,0.43
+18,19,Jean-Kévin Augustin,fr FRA,FW,Leeds United,22.0,1997.0,3,0,51,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+19,20,Charlie Austin,eng ENG,FW,West Brom,30.0,1989.0,34,18,1508,10,2,4,4,5,0,0.6,0.12,0.72,0.36,0.48
+20,21,Daniel Ayala,es ESP,DF,Middlesbrough,28.0,1990.0,25,23,2081,2,0,0,0,4,0,0.09,0.0,0.09,0.09,0.09
+21,22,André Ayew,gh GHA,MFFW,Swansea City,29.0,1989.0,44,43,3905,15,7,5,5,3,0,0.35,0.16,0.51,0.23,0.39
+22,23,Floyd Ayité,tg TOG,FWMF,Fulham,30.0,1988.0,1,0,17,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+23,24,Luke Ayling,eng ENG,DF,Leeds United,27.0,1991.0,37,35,3176,4,4,0,0,9,0,0.11,0.11,0.23,0.11,0.23
+24,25,Juninho Bacuna,cw CUW,MFDF,Huddersfield,21.0,1997.0,38,25,2326,6,4,0,0,7,1,0.23,0.15,0.39,0.23,0.39
+25,26,Leandro Bacuna,cw CUW,MFDF,Cardiff City,27.0,1991.0,41,35,3151,1,2,0,0,5,0,0.03,0.06,0.09,0.03,0.09
+26,27,Mike-Steven Bähre,de GER,MF,Barnsley,23.0,1995.0,26,20,1617,1,3,0,0,3,0,0.06,0.17,0.22,0.06,0.22
+27,28,Odin Bailey,eng ENG,MF,Birmingham City,19.0,1999.0,6,0,90,1,0,0,0,1,0,1.0,0.0,1.0,1.0,1.0
+28,29,Geraldo Bajrami,al ALB,DF,Birmingham City,19.0,1999.0,2,2,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+29,30,Nathan Baker,eng ENG,DF,Bristol City,28.0,1991.0,34,33,2678,1,0,0,0,3,0,0.03,0.0,0.03,0.03,0.03
+30,31,Sam Baldock,eng ENG,FW,Reading,30.0,1989.0,24,12,1105,5,1,1,1,2,0,0.41,0.08,0.49,0.33,0.41
+31,32,Dominic Ball,eng ENG,MF,QPR,23.0,1995.0,31,30,2442,1,2,0,0,4,0,0.04,0.07,0.11,0.04,0.11
+32,33,Norbert Balogh,hu HUN,FW,Hull City,23.0,1996.0,3,0,60,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+33,34,Leon Balogun,ng NGA,DF,Wigan Athletic,31.0,1988.0,11,10,806,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+34,35,Sol Bamba,ci CIV,DF,Cardiff City,34.0,1985.0,6,1,104,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+35,36,Patrick Bamford,eng ENG,FW,Leeds United,25.0,1993.0,45,43,3445,16,2,2,3,4,0,0.42,0.05,0.47,0.37,0.42
+36,37,Barry Bannan,sco SCO,MF,Sheffield Weds,29.0,1989.0,44,42,3848,2,8,1,1,8,0,0.05,0.19,0.23,0.02,0.21
+37,38,Shandon Baptiste,gd GRN,MF,Brentford,21.0,1998.0,12,3,335,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+38,39,Yoann Barbet,fr FRA,DF,QPR,26.0,1993.0,27,27,2421,0,2,0,0,5,1,0.0,0.07,0.07,0.0,0.07
+39,40,Tom Barkhuizen,eng ENG,MFFW,Preston,26.0,1993.0,44,35,3093,9,5,0,0,2,0,0.26,0.15,0.41,0.26,0.41
+40,41,Josh Barrett,ie IRL,MFFW,Reading,21.0,1998.0,5,2,181,0,1,0,0,0,0,0.0,0.5,0.5,0.0,0.5
+41,42,Modou Barrow,gm GAM,MF,Reading,26.0,1992.0,1,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+42,43,Gareth Barry,eng ENG,MF,West Brom,38.0,1981.0,3,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+43,44,Kyle Bartley,eng ENG,DF,West Brom,28.0,1991.0,38,37,3265,2,2,0,0,7,0,0.06,0.06,0.11,0.06,0.11
+44,45,Borja Bastón,es ESP,FW,Swansea City,26.0,1992.0,20,15,1262,6,0,2,2,3,0,0.43,0.0,0.43,0.29,0.29
+45,46,Danny Batth,eng ENG,DF,Stoke City,28.0,1990.0,43,40,3775,4,1,0,0,3,0,0.1,0.02,0.12,0.1,0.12
+46,47,Daniel Batty,eng ENG,MF,Hull City,21.0,1997.0,30,19,1686,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+47,48,Patrick Bauer,de GER,DF,Preston,26.0,1992.0,41,41,3616,3,0,0,0,2,0,0.07,0.0,0.07,0.07,0.07
+48,49,Tom Bayliss,eng ENG,MF,Preston,20.0,1999.0,1,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+49,50,Mads Bech Sørensen,dk DEN,DF,Brentford,20.0,1999.0,1,0,29,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+50,51,Jérémie Bela,ao ANG,MF,Birmingham City,26.0,1993.0,30,22,1965,2,7,0,0,0,0,0.09,0.32,0.41,0.09,0.41
+51,52,Amari'i Bell,eng ENG,DF,Blackburn,25.0,1994.0,21,19,1809,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+52,53,Jude Bellingham,eng ENG,MF,Birmingham City,16.0,2003.0,41,32,2694,4,2,0,0,7,0,0.13,0.07,0.2,0.13,0.2
+53,54,Yohan Benalouane,tn TUN,DF,Nott'ham Forest,32.0,1987.0,1,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+54,55,Filip Benković,hr CRO,DF,Bristol City,22.0,1997.0,10,6,644,2,0,0,0,3,0,0.28,0.0,0.28,0.28,0.28
+55,56,Elliott Bennett,eng ENG,DFMF,Blackburn,30.0,1988.0,41,29,2797,0,4,0,0,8,0,0.0,0.13,0.13,0.0,0.13
+56,57,Joe Bennett,eng ENG,DF,Cardiff City,29.0,1990.0,44,44,3860,0,5,0,0,5,0,0.0,0.12,0.12,0.0,0.12
+57,58,Mason Bennett,eng ENG,FWMF,Millwall,23.0,1996.0,9,7,434,2,0,0,0,1,0,0.41,0.0,0.41,0.41,0.41
+58,59,Mason Bennett,eng ENG,MF,Derby County,23.0,1996.0,7,2,181,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+59,60,Saïd Benrahma,dz ALG,FW,Brentford,23.0,1995.0,43,39,3545,17,8,4,4,5,0,0.43,0.2,0.63,0.33,0.53
+60,61,Daniel Bentley,eng ENG,GK,Bristol City,26.0,1993.0,43,42,3843,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+61,62,Gaetano Berardi,ch SUI,DF,Leeds United,30.0,1988.0,22,13,1127,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0
+62,63,James Berry,eng ENG,MF,Hull City,18.0,2000.0,1,0,8,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+63,64,Luke Berry,eng ENG,MFFW,Luton Town,27.0,1992.0,21,15,1358,1,1,0,0,5,0,0.07,0.07,0.13,0.07,0.13
+64,65,Faysal Bettache,eng ENG,MF,QPR,19.0,2000.0,3,0,26,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+65,66,Marcus Bettinelli,eng ENG,GK,Fulham,27.0,1992.0,14,13,1242,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+66,67,Bartosz Białkowski,pl POL,GK,Millwall,32.0,1987.0,46,45,4098,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+67,68,Jake Bidwell,eng ENG,DFMF,Swansea City,26.0,1993.0,37,36,3260,0,3,0,0,3,1,0.0,0.08,0.08,0.0,0.08
+68,69,Krystian Bielik,pl POL,MFDF,Derby County,21.0,1998.0,20,19,1487,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0
+69,70,Mame Biram Diouf,sn SEN,FWMF,Stoke City,31.0,1987.0,8,0,93,1,0,0,0,0,0,0.97,0.0,0.97,0.97,0.97
+70,71,Max Bird,eng ENG,MF,Derby County,18.0,2000.0,22,21,1905,0,2,0,0,1,0,0.0,0.09,0.09,0.0,0.09
+71,72,Tyler Blackett,eng ENG,DF,Reading,25.0,1994.0,20,16,1386,0,3,0,0,3,0,0.0,0.19,0.19,0.0,0.19
+72,73,Billy Bodin,wal WAL,MF,Preston,27.0,1992.0,18,11,936,2,0,0,0,1,0,0.19,0.0,0.19,0.19,0.19
+73,74,Jayden Bogle,eng ENG,DF,Derby County,19.0,2000.0,37,33,2900,1,5,0,0,7,0,0.03,0.16,0.19,0.03,0.19
+74,75,Omar Bogle,eng ENG,FW,Cardiff City,26.0,1993.0,11,2,325,1,0,0,0,1,0,0.28,0.0,0.28,0.28,0.28
+75,76,Mateusz Bogusz,pl POL,MF,Leeds United,17.0,2001.0,1,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+76,77,Marc Bola,eng ENG,DFMF,Middlesbrough,21.0,1997.0,7,6,517,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+77,78,Luke Bolton,eng ENG,DFMF,Luton Town,19.0,1999.0,24,10,1094,0,2,0,0,1,0,0.0,0.16,0.16,0.0,0.16
+78,79,Gaëtan Bong,cm CMR,DF,Nott'ham Forest,31.0,1988.0,1,1,58,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+79,80,Macauley Bonne,zw ZIM,FW,Charlton Ath,23.0,1995.0,33,26,2349,11,2,0,0,5,0,0.42,0.08,0.5,0.42,0.5
+80,81,Julian Börner,de GER,DF,Sheffield Weds,28.0,1991.0,37,34,3072,1,0,0,0,7,0,0.03,0.0,0.03,0.03,0.03
+81,82,John Bostock,tt TRI,MF,Nott'ham Forest,27.0,1992.0,7,1,163,0,1,0,0,1,0,0.0,0.55,0.55,0.0,0.55
+82,83,Jarrod Bowen,eng ENG,MFFW,Hull City,22.0,1996.0,29,29,2610,16,6,0,1,5,0,0.55,0.21,0.76,0.55,0.76
+83,84,Josh Bowler,eng ENG,MF,Hull City,20.0,1999.0,28,11,1048,1,0,0,0,3,0,0.09,0.0,0.09,0.09,0.09
+84,85,Caolan Boyd Munce,nir NIR,MF,Birmingham City,19.0,2000.0,6,0,71,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+85,86,Lucas Boyé,ar ARG,FWMF,Reading,23.0,1996.0,19,5,584,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+86,87,Sonny Bradley,eng ENG,DF,Luton Town,27.0,1991.0,40,39,3517,3,0,0,0,2,0,0.08,0.0,0.08,0.08,0.08
+87,88,Tom Bradshaw,wal WAL,FW,Millwall,27.0,1992.0,45,29,2661,8,1,0,0,1,0,0.27,0.03,0.3,0.27,0.3
+88,89,James Bree,eng ENG,DF,Luton Town,21.0,1997.0,39,34,3038,0,5,0,0,2,0,0.0,0.15,0.15,0.0,0.15
+89,90,Ben Brereton,eng ENG,FW,Blackburn,20.0,1999.0,15,7,593,1,0,0,0,0,1,0.15,0.0,0.15,0.15,0.15
+90,91,Rhian Brewster,eng ENG,FW,Swansea City,19.0,2000.0,20,19,1664,10,0,0,0,6,0,0.54,0.0,0.54,0.54,0.54
+91,92,Izzy Brown,eng ENG,FWMF,Luton Town,22.0,1997.0,25,17,1455,1,7,0,0,5,0,0.06,0.43,0.49,0.06,0.49
+92,93,Jacob Brown,eng ENG,FWMF,Barnsley,21.0,1998.0,40,39,3335,3,9,0,0,4,0,0.08,0.24,0.32,0.08,0.32
+93,94,Jaden Brown,eng ENG,DF,Huddersfield,20.0,1999.0,15,12,1025,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+94,95,James Brown,eng ENG,DF,Millwall,21.0,1998.0,1,1,60,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+95,96,Jordan Brown,eng ENG,MF,Derby County,18.0,2001.0,1,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+96,97,Alan Browne,ie IRL,MFDF,Preston,24.0,1995.0,43,35,3203,4,2,0,0,3,0,0.11,0.06,0.17,0.11,0.17
+97,98,Marcus Browne,eng ENG,FW,Middlesbrough,21.0,1997.0,13,5,422,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0
+98,99,Josh Brownhill,eng ENG,MF,Bristol City,23.0,1995.0,28,28,2459,5,2,0,0,4,0,0.18,0.07,0.26,0.18,0.26
+99,100,Chris Brunt,nir NIR,DFMF,West Brom,34.0,1984.0,7,0,81,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+100,101,Joe Bryan,eng ENG,DF,Fulham,25.0,1993.0,43,39,3412,1,7,0,0,6,0,0.03,0.18,0.21,0.03,0.21
+101,102,Lee Buchanan,eng ENG,DF,Derby County,18.0,2001.0,5,3,278,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+102,103,John Buckley,eng ENG,MFDF,Blackburn,19.0,1999.0,20,5,612,2,0,0,0,3,1,0.29,0.0,0.29,0.29,0.29
+103,104,Tyler Burey,eng ENG,FW,Millwall,,,1,0,11,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+104,105,Oliver Burke,sco SCO,FWMF,West Brom,22.0,1997.0,2,0,39,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+105,106,Reece Burke,eng ENG,DF,Hull City,22.0,1996.0,36,36,3188,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+106,107,Ryan Burke,ie IRL,DF,Birmingham City,18.0,2000.0,1,0,19,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+107,108,Jack Butland,eng ENG,GK,Stoke City,26.0,1993.0,35,35,3150,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+108,109,Jacob Butterfield,eng ENG,MF,Luton Town,29.0,1990.0,15,11,855,1,0,0,0,2,0,0.11,0.0,0.11,0.11,0.11
+109,110,George Byers,sco SCO,MF,Swansea City,23.0,1996.0,35,22,2086,2,0,0,0,7,0,0.09,0.0,0.09,0.09,0.09
+110,111,Nathan Byrne,eng ENG,DF,Wigan Athletic,27.0,1992.0,39,39,3491,1,6,0,0,8,0,0.03,0.15,0.18,0.03,0.18
+111,112,Benjamin Cabango,wal WAL,DF,Swansea City,19.0,2000.0,21,19,1769,1,0,0,0,2,0,0.05,0.0,0.05,0.05,0.05
+112,113,Rafael Cabral,br BRA,GK,Reading,29.0,1990.0,44,44,3960,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+113,114,Tom Cairney,sco SCO,MF,Fulham,28.0,1991.0,39,38,3263,8,3,0,0,5,0,0.22,0.08,0.3,0.22,0.3
+114,115,Geoff Cameron,us USA,MFDF,QPR,34.0,1985.0,36,36,3051,1,1,0,0,12,1,0.03,0.03,0.06,0.03,0.06
+115,116,Lee Camp,nir NIR,GK,Birmingham City,34.0,1984.0,36,36,3240,0,1,0,0,0,0,0.0,0.03,0.03,0.0,0.03
+116,117,Fraizer Campbell,eng ENG,FW,Huddersfield,31.0,1987.0,33,21,1559,3,2,0,0,8,0,0.17,0.12,0.29,0.17,0.29
+117,118,Tyrese Campbell,eng ENG,FWMF,Stoke City,19.0,1999.0,33,18,1618,9,2,1,1,2,0,0.5,0.11,0.61,0.44,0.56
+118,119,Sergi Canós,es ESP,FWMF,Brentford,22.0,1997.0,13,11,990,0,3,0,0,3,0,0.0,0.27,0.27,0.0,0.27
+119,120,Ian Carlo Poveda,eng ENG,MF,Leeds United,19.0,2000.0,4,1,127,0,1,0,0,0,0,0.0,0.71,0.71,0.0,0.71
+120,121,Tom Carroll,eng ENG,MF,Swansea City,27.0,1992.0,8,5,390,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0
+121,122,Hayden Carter,eng ENG,DF,Blackburn,19.0,1999.0,2,2,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+122,123,Cameron Carter-Vickers,us USA,DF,Luton Town,21.0,1997.0,16,15,1368,0,1,0,0,2,0,0.0,0.07,0.07,0.0,0.07
+123,124,Cameron Carter-Vickers,us USA,DF,Stoke City,21.0,1997.0,12,12,998,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+124,125,João Carvalho,pt POR,MF,Nott'ham Forest,22.0,1997.0,23,9,863,1,1,0,0,1,0,0.1,0.1,0.21,0.1,0.21
+125,126,Oliver Casey,eng ENG,DF,Leeds United,18.0,2000.0,1,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+126,127,Matty Cash,eng ENG,DF,Nott'ham Forest,21.0,1997.0,42,40,3615,3,5,0,0,7,0,0.07,0.12,0.2,0.07,0.2
+127,128,Kiko Casilla,es ESP,GK,Leeds United,32.0,1986.0,36,36,3240,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+128,129,Ivan Cavaleiro,pt POR,FWMF,Fulham,25.0,1993.0,43,36,3025,6,7,0,0,4,0,0.18,0.21,0.39,0.18,0.39
+129,130,Dimitri Cavaré,fr FRA,DFMF,Barnsley,24.0,1995.0,11,11,950,0,1,0,0,3,0,0.0,0.09,0.09,0.0,0.09
+130,131,Bersant Celina,xk KVX,MFFW,Swansea City,22.0,1996.0,35,28,2470,2,2,0,0,2,0,0.07,0.07,0.15,0.07,0.15
+131,132,Ilias Chair,be BEL,MFFW,QPR,21.0,1997.0,41,26,2428,4,6,0,0,3,0,0.15,0.22,0.37,0.15,0.37
+132,133,Trevoh Chalobah,eng ENG,MFDF,Huddersfield,20.0,1999.0,36,30,2735,1,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07
+133,134,Conor Chaplin,eng ENG,FWMF,Barnsley,22.0,1997.0,44,36,3302,11,4,0,0,5,0,0.3,0.11,0.41,0.3,0.41
+134,135,Harry Chapman,eng ENG,MF,Blackburn,21.0,1997.0,5,0,83,0,1,0,0,1,0,0.0,1.08,1.08,0.0,1.08
+135,136,Chema,es ESP,DF,Nott'ham Forest,27.0,1992.0,8,7,620,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+136,137,James Chester,wal WAL,DF,Stoke City,30.0,1989.0,16,13,1237,0,1,0,0,0,0,0.0,0.07,0.07,0.0,0.07
+137,138,Cyrus Christie,ie IRL,DF,Fulham,26.0,1992.0,24,13,1441,1,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12
+138,139,Jack Clarke,nir NIR,MF,QPR,18.0,2000.0,6,0,145,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+139,140,Jack Clarke,nir NIR,MF,Leeds United,18.0,2000.0,1,0,20,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+140,141,Josh Clarke,eng ENG,DFMF,Brentford,24.0,1995.0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+141,142,Matthew Clarke,eng ENG,DF,Derby County,22.0,1996.0,35,34,3019,1,0,0,0,1,0,0.03,0.0,0.03,0.03,0.03
+142,143,Tom Clarke,eng ENG,DF,Preston,31.0,1987.0,10,7,601,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+143,144,Jake Clarke-Salter,eng ENG,DF,Birmingham City,21.0,1997.0,19,19,1610,1,1,0,0,6,0,0.06,0.06,0.11,0.06,0.11
+144,145,Adam Clayton,eng ENG,MF,Middlesbrough,30.0,1989.0,27,21,1715,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+145,146,Sam Clucas,eng ENG,MF,Stoke City,28.0,1990.0,44,44,3900,11,4,0,0,6,0,0.25,0.09,0.35,0.25,0.35
+146,147,Joel Coleman,eng ENG,GK,Huddersfield,23.0,1995.0,3,2,188,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+147,148,Maxime Colin,fr FRA,DF,Birmingham City,27.0,1991.0,44,44,3960,1,6,0,0,4,0,0.02,0.14,0.16,0.02,0.16
+148,149,Bradley Collins,eng ENG,GK,Barnsley,22.0,1997.0,19,19,1710,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+149,150,James Collins,ie IRL,FW,Luton Town,28.0,1990.0,46,44,3938,14,3,6,7,9,0,0.32,0.07,0.39,0.18,0.25
+150,151,Nathan Collins,ie IRL,DF,Stoke City,18.0,2001.0,14,6,535,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+151,152,Jake Cooper,eng ENG,DF,Millwall,24.0,1995.0,46,46,4140,3,2,0,0,10,0,0.07,0.04,0.11,0.07,0.11
+152,153,Liam Cooper,sco SCO,DF,Leeds United,27.0,1991.0,38,36,3125,2,0,0,0,2,0,0.06,0.0,0.06,0.06,0.06
+153,154,Harry Cornick,eng ENG,FWMF,Luton Town,24.0,1995.0,45,37,3085,9,3,0,0,2,0,0.26,0.09,0.35,0.26,0.35
+154,155,Hélder Costa,pt POR,MF,Leeds United,25.0,1994.0,43,33,2954,4,5,0,0,3,0,0.12,0.15,0.27,0.12,0.27
+155,156,Nuno da Costa,cv CPV,FWMF,Nott'ham Forest,28.0,1991.0,10,4,437,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+156,157,Hayden Coulson,eng ENG,MFDF,Middlesbrough,21.0,1998.0,29,20,1882,1,1,0,0,3,0,0.05,0.05,0.1,0.05,0.1
+157,158,Jordan Cousins,eng ENG,MF,Stoke City,25.0,1994.0,20,15,1435,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+158,159,Martin Cranie,eng ENG,DFMF,Luton Town,32.0,1986.0,24,19,1694,2,1,0,0,3,0,0.11,0.05,0.16,0.11,0.16
+159,160,Daniel Crowley,eng ENG,MF,Birmingham City,21.0,1997.0,38,29,2501,1,5,0,0,5,0,0.04,0.18,0.22,0.04,0.22
+160,161,Alessio da Cruz,nl NED,FWMF,Sheffield Weds,22.0,1997.0,14,8,687,0,2,0,0,1,0,0.0,0.26,0.26,0.0,0.26
+161,162,Josh Cullen,ie IRL,MF,Charlton Ath,23.0,1996.0,34,34,3025,1,2,1,1,7,0,0.03,0.06,0.09,0.0,0.06
+162,163,Liam Cullen,wal WAL,FW,Swansea City,20.0,1999.0,6,0,41,1,0,0,0,0,0,2.2,0.0,2.2,2.2,2.2
+163,164,Greg Cunningham,ie IRL,DF,Blackburn,28.0,1991.0,8,8,646,0,1,0,0,2,0,0.0,0.14,0.14,0.0,0.14
+164,165,Bradley Dack,eng ENG,MF,Blackburn,25.0,1993.0,22,22,1872,9,1,1,1,4,1,0.43,0.05,0.48,0.38,0.43
+165,166,Stuart Dallas,nir NIR,DFMF,Leeds United,28.0,1991.0,45,45,3930,5,3,0,0,7,0,0.11,0.07,0.18,0.11,0.18
+166,167,Henrik Dalsgaard,dk DEN,DFMF,Brentford,30.0,1989.0,43,42,3777,1,2,0,0,4,0,0.02,0.05,0.07,0.02,0.07
+167,168,Matty Daly,eng ENG,MF,Huddersfield,18.0,2001.0,4,0,58,1,0,0,0,0,0,1.55,0.0,1.55,1.55,1.55
+168,169,Donervon Daniels,ms MSR,DF,Luton Town,25.0,1993.0,3,2,193,1,0,0,0,0,0,0.47,0.0,0.47,0.47,0.47
+169,170,Jay Dasilva,eng ENG,DFMF,Bristol City,21.0,1998.0,24,22,1964,0,2,0,0,1,0,0.0,0.09,0.09,0.0,0.09
+170,171,Josh Dasilva,eng ENG,MF,Brentford,20.0,1998.0,42,34,2981,10,4,1,1,2,0,0.3,0.12,0.42,0.27,0.39
+171,172,Jacob Davenport,eng ENG,MF,Blackburn,20.0,1998.0,9,0,165,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+172,173,Adam Davies,wal WAL,GK,Stoke City,27.0,1992.0,4,4,360,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+173,174,Ben Davies,eng ENG,DF,Preston,23.0,1995.0,36,36,3174,0,1,0,0,2,0,0.0,0.03,0.03,0.0,0.03
+174,175,Curtis Davies,eng ENG,DF,Derby County,34.0,1985.0,32,25,2359,0,1,0,0,1,0,0.0,0.04,0.04,0.0,0.04
+175,176,David Davis,eng ENG,MF,Charlton Ath,28.0,1991.0,5,5,450,0,1,0,0,2,0,0.0,0.2,0.2,0.0,0.2
+176,177,David Davis,eng ENG,MF,Birmingham City,28.0,1991.0,15,13,1156,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+177,178,Leif Davis,eng ENG,DF,Leeds United,19.0,2000.0,3,0,14,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+178,179,Cameron Dawson,eng ENG,GK,Sheffield Weds,24.0,1995.0,24,23,2079,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+179,180,Michael Dawson,eng ENG,DF,Nott'ham Forest,35.0,1983.0,18,16,1401,1,0,0,0,1,0,0.06,0.0,0.06,0.06,0.06
+180,181,Joe Day,eng ENG,GK,Cardiff City,28.0,1990.0,1,0,35,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+181,182,Jón Daði Böðvarsson,is ISL,FW,Millwall,27.0,1992.0,31,13,1376,3,2,0,0,2,0,0.2,0.13,0.33,0.2,0.33
+182,183,Harlee Dean,eng ENG,DF,Birmingham City,28.0,1991.0,39,34,3153,1,1,0,0,5,2,0.03,0.03,0.06,0.03,0.06
+183,184,Ben Dempsey,eng ENG,MF,Charlton Ath,19.0,1999.0,4,3,262,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+184,185,Mike van der Hoorn,nl NED,DF,Swansea City,26.0,1992.0,28,27,2288,1,1,0,0,3,0,0.04,0.04,0.08,0.04,0.08
+185,186,Halil Dervişoğlu,tr TUR,FW,Brentford,19.0,1999.0,4,0,48,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+186,187,Yan Dhanda,eng ENG,MF,Swansea City,20.0,1998.0,16,9,791,3,0,0,0,2,0,0.34,0.0,0.34,0.34,0.34
+187,188,Bambo Diaby,sn SEN,DF,Barnsley,21.0,1997.0,21,21,1865,1,0,0,0,8,0,0.05,0.0,0.05,0.05,0.05
+188,189,Adama Diakhaby,fr FRA,MF,Nott'ham Forest,23.0,1996.0,14,2,359,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+189,190,Adama Diakhaby,fr FRA,MFFW,Huddersfield,23.0,1996.0,18,9,861,0,2,0,0,3,0,0.0,0.21,0.21,0.0,0.21
+190,191,Grady Diangana,eng ENG,MF,West Brom,21.0,1998.0,30,23,1853,8,6,0,0,2,0,0.39,0.29,0.68,0.39,0.68
+191,192,Nouha Dicko,ml MLI,FW,Hull City,27.0,1992.0,2,1,89,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+192,193,Famara Diedhiou,sn SEN,FW,Bristol City,26.0,1992.0,41,29,2893,12,1,1,2,3,1,0.37,0.03,0.4,0.34,0.37
+193,194,Anfernee Dijksteel,nl NED,DFMF,Middlesbrough,22.0,1996.0,16,12,1040,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+194,195,Anfernee Dijksteel,nl NED,MF,Charlton Ath,22.0,1996.0,1,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+195,196,Mihai Dobre,ro ROU,MF,Wigan Athletic,20.0,1998.0,1,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+196,197,Kenneth Dougall,au AUS,MF,Barnsley,26.0,1993.0,12,9,843,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+197,198,Alfie Doughty,eng ENG,DFMF,Charlton Ath,19.0,1999.0,29,20,1971,2,3,0,0,2,0,0.09,0.14,0.23,0.09,0.23
+198,199,Barry Douglas,sco SCO,DF,Leeds United,29.0,1989.0,15,6,648,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+199,200,Kieran Dowell,eng ENG,MF,Derby County,21.0,1997.0,10,8,701,0,1,0,0,2,0,0.0,0.13,0.13,0.0,0.13
+200,201,Kieran Dowell,eng ENG,MF,Wigan Athletic,21.0,1997.0,12,12,896,4,2,0,0,0,0,0.4,0.2,0.6,0.4,0.6
+201,202,Stewart Downing,eng ENG,MFDF,Blackburn,35.0,1984.0,41,38,3401,2,8,0,0,1,0,0.05,0.21,0.26,0.05,0.26
+202,203,Mark Duffy,eng ENG,FW,Stoke City,33.0,1985.0,6,1,170,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+203,204,Demeaco Duhaney,eng ENG,DF,Huddersfield,20.0,1998.0,6,4,355,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+204,205,Chey Dunkley,eng ENG,DF,Wigan Athletic,27.0,1992.0,26,22,2003,6,0,0,0,8,2,0.27,0.0,0.27,0.27,0.27
+205,206,Nathan Dyer,eng ENG,MF,Swansea City,31.0,1987.0,10,7,543,1,1,0,0,0,0,0.17,0.17,0.33,0.17,0.33
+206,207,Tom Eaves,eng ENG,FW,Hull City,27.0,1992.0,40,22,2125,5,2,0,0,4,0,0.21,0.08,0.3,0.21,0.3
+207,208,Rarmani Edmonds-Green,eng ENG,DF,Huddersfield,20.0,1999.0,2,1,91,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+208,209,Kyle Edwards,eng ENG,MF,West Brom,21.0,1998.0,26,9,923,2,0,0,0,2,0,0.2,0.0,0.2,0.2,0.2
+209,210,Tom Edwards,eng ENG,DFMF,Stoke City,20.0,1999.0,13,13,1125,0,1,0,0,0,0,0.0,0.08,0.08,0.0,0.08
+210,211,Ovie Ejaria,eng ENG,MF,Reading,21.0,1997.0,36,36,3101,3,5,0,0,3,0,0.09,0.15,0.23,0.09,0.23
+211,212,Callum Elder,au AUS,DF,Hull City,24.0,1995.0,30,30,2500,0,3,0,0,3,0,0.0,0.11,0.11,0.0,0.11
+212,213,Niclas Eliasson,se SWE,MF,Bristol City,23.0,1995.0,37,18,1999,3,12,0,0,2,0,0.14,0.54,0.68,0.14,0.68
+213,214,Tommy Elphick,eng ENG,DF,Huddersfield,31.0,1987.0,14,14,1191,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+214,215,Bright Enobakhare,ng NGA,FWMF,Wigan Athletic,21.0,1998.0,2,0,50,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+215,216,Oghenekaro Etebo,ng NGA,MFFW,Stoke City,23.0,1995.0,11,8,715,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+216,217,Neil Etheridge,ph PHI,GK,Cardiff City,29.0,1990.0,16,16,1405,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+217,218,Corry Evans,nir NIR,MF,Blackburn,29.0,1990.0,13,11,868,1,2,0,0,4,0,0.1,0.21,0.31,0.1,0.31
+218,219,George Evans,eng ENG,MFDF,Derby County,24.0,1994.0,17,11,1127,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+219,220,Lee Evans,wal WAL,MF,Wigan Athletic,25.0,1994.0,32,18,1772,2,0,0,0,4,0,0.1,0.0,0.1,0.1,0.1
+220,221,Eberechi Eze,eng ENG,MF,QPR,21.0,1998.0,46,46,4057,14,8,4,4,3,0,0.31,0.18,0.49,0.22,0.4
+221,222,Adam Federici,au AUS,GK,Stoke City,34.0,1985.0,7,7,630,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+222,223,Nathan Ferguson,eng ENG,DF,West Brom,18.0,2000.0,21,21,1746,1,1,0,0,5,1,0.05,0.05,0.1,0.05,0.1
+223,224,Shane Ferguson,nir NIR,MFDF,Millwall,28.0,1991.0,29,19,1721,0,3,0,0,4,1,0.0,0.16,0.16,0.0,0.16
+224,225,Miguel Fernández,,MF,Birmingham City,,,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+225,226,Sam Field,eng ENG,MF,Charlton Ath,21.0,1998.0,17,10,783,0,1,0,0,1,0,0.0,0.11,0.11,0.0,0.11
+226,227,Frank Fielding,eng ENG,GK,Millwall,31.0,1988.0,1,1,42,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+227,228,Tobias Figueiredo,pt POR,DF,Nott'ham Forest,25.0,1994.0,30,30,2650,3,0,0,0,2,0,0.1,0.0,0.1,0.1,0.1
+228,229,Darnell Fisher,eng ENG,DF,Preston,25.0,1994.0,28,26,2283,0,4,0,0,10,1,0.0,0.16,0.16,0.0,0.16
+229,230,Brandon Fleming,eng ENG,DF,Hull City,19.0,1999.0,4,4,360,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+230,231,Ashley Fletcher,eng ENG,FW,Middlesbrough,23.0,1995.0,43,37,3237,10,7,1,1,5,0,0.28,0.19,0.47,0.25,0.44
+231,232,Steven Fletcher,sco SCO,FW,Sheffield Weds,32.0,1987.0,27,23,2018,13,2,4,4,6,0,0.58,0.09,0.67,0.4,0.49
+232,233,Aden Flint,eng ENG,DF,Cardiff City,30.0,1989.0,26,26,2290,2,4,0,0,2,0,0.08,0.16,0.24,0.08,0.24
+233,234,Fernando Forestieri,it ITA,MFFW,Sheffield Weds,29.0,1990.0,17,8,829,2,1,1,1,3,0,0.22,0.11,0.33,0.11,0.22
+234,235,Adam Forshaw,eng ENG,MF,Leeds United,27.0,1991.0,7,6,584,0,1,0,0,3,0,0.0,0.15,0.15,0.0,0.15
+235,236,Marcus Forss,fi FIN,FW,Brentford,20.0,1999.0,2,0,36,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+236,237,Jake Forster-Caskey,eng ENG,MFDF,Charlton Ath,25.0,1994.0,11,7,581,0,1,0,0,3,0,0.0,0.15,0.15,0.0,0.15
+237,238,Craig Forsyth,sco SCO,DF,Derby County,30.0,1989.0,22,20,1750,0,3,0,0,2,0,0.0,0.15,0.15,0.0,0.15
+238,239,Tariqe Fosu,eng ENG,FW,Brentford,23.0,1995.0,10,2,257,1,0,0,0,1,0,0.35,0.0,0.35,0.35,0.35
+239,240,Danny Fox,sco SCO,DF,Wigan Athletic,33.0,1986.0,11,9,805,0,1,0,0,1,1,0.0,0.11,0.11,0.0,0.11
+240,241,Morgan Fox,wal WAL,DF,Sheffield Weds,25.0,1993.0,27,24,2127,2,1,0,0,3,0,0.08,0.04,0.13,0.08,0.13
+241,242,George Friend,eng ENG,DF,Middlesbrough,31.0,1987.0,14,14,1224,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+242,243,Dael Fry,eng ENG,DF,Middlesbrough,21.0,1997.0,36,36,3184,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+243,244,Jay Fulton,sco SCO,MF,Swansea City,25.0,1994.0,36,29,2442,3,2,0,0,10,0,0.11,0.07,0.18,0.11,0.18
+244,245,Darnell Furlong,eng ENG,DF,West Brom,23.0,1995.0,31,22,2247,2,1,0,0,5,0,0.08,0.04,0.12,0.08,0.12
+245,246,Conor Gallagher,eng ENG,MF,Swansea City,19.0,2000.0,19,19,1664,0,6,0,0,3,0,0.0,0.32,0.32,0.0,0.32
+246,247,Conor Gallagher,eng ENG,MFFW,Charlton Ath,19.0,2000.0,26,25,2218,6,2,0,0,8,0,0.24,0.08,0.32,0.24,0.32
+247,248,Paul Gallagher,sco SCO,MF,Preston,34.0,1984.0,33,22,1938,6,3,4,5,5,0,0.28,0.14,0.42,0.09,0.23
+248,249,Sam Gallagher,eng ENG,FWMF,Blackburn,23.0,1995.0,42,28,2506,6,2,0,0,3,0,0.22,0.07,0.29,0.22,0.29
+249,250,Brendan Galloway,eng ENG,DF,Luton Town,23.0,1996.0,3,0,78,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+250,251,Gary Gardner,eng ENG,MF,Birmingham City,27.0,1992.0,35,27,2502,4,2,0,0,13,0,0.14,0.07,0.22,0.14,0.22
+251,252,Joe Garner,eng ENG,FW,Wigan Athletic,31.0,1988.0,28,9,883,2,3,0,0,5,1,0.2,0.31,0.51,0.2,0.51
+252,253,Jordan Garrick,eng ENG,MF,Swansea City,21.0,1998.0,11,1,279,2,0,0,0,1,1,0.65,0.0,0.65,0.65,0.65
+253,254,Joe Gelhardt,eng ENG,MF,Wigan Athletic,17.0,2002.0,18,2,426,1,0,0,0,2,0,0.21,0.0,0.21,0.21,0.21
+254,255,Rudy Gestede,bj BEN,FW,Middlesbrough,30.0,1988.0,19,5,591,2,1,0,0,0,0,0.3,0.15,0.46,0.3,0.46
+255,256,Kieran Gibbs,eng ENG,DF,West Brom,29.0,1989.0,14,14,984,1,2,0,0,1,0,0.09,0.18,0.27,0.09,0.27
+256,257,Álvaro Giménez,es ESP,FW,Birmingham City,28.0,1991.0,24,12,1201,3,0,0,0,5,0,0.22,0.0,0.22,0.22,0.22
+257,258,Josh Ginnelly,eng ENG,MF,Preston,22.0,1997.0,1,0,11,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+258,259,Robert Glatzel,de GER,FW,Cardiff City,25.0,1994.0,30,23,1822,7,0,1,1,1,0,0.35,0.0,0.35,0.3,0.3
+259,260,Nico Gordon,eng ENG,DF,Birmingham City,17.0,2002.0,2,1,75,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+260,261,Jon Gorenc Stanković,si SVN,DF,Huddersfield,23.0,1996.0,19,13,1314,1,0,0,0,3,0,0.07,0.0,0.07,0.07,0.07
+261,262,Robbie Gotts,eng ENG,FW,Leeds United,19.0,1999.0,1,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+262,263,Kamil Grabara,pl POL,GK,Huddersfield,20.0,1999.0,28,28,2512,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+263,264,Lewis Grabban,eng ENG,FW,Nott'ham Forest,31.0,1988.0,45,43,3911,20,2,4,5,2,0,0.46,0.05,0.51,0.37,0.41
+264,265,Danny Graham,eng ENG,FW,Blackburn,33.0,1985.0,38,14,1494,4,1,1,2,0,0,0.24,0.06,0.3,0.18,0.24
+265,266,Karlan Grant,eng ENG,MFFW,Huddersfield,21.0,1997.0,43,42,3698,19,4,6,7,3,0,0.46,0.1,0.56,0.32,0.41
+266,267,André Green,eng ENG,FWMF,Charlton Ath,21.0,1998.0,13,8,757,2,1,0,0,1,0,0.24,0.12,0.36,0.24,0.36
+267,268,André Green,eng ENG,FWMF,Preston,21.0,1998.0,4,0,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+268,269,Jordan Green,eng ENG,FWMF,Barnsley,24.0,1995.0,2,0,54,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+269,270,Lee Gregory,eng ENG,FW,Stoke City,30.0,1988.0,40,22,2078,6,3,2,2,1,0,0.26,0.13,0.39,0.17,0.3
+270,271,Matt Grimes,eng ENG,MF,Swansea City,24.0,1995.0,46,46,4140,0,7,0,0,6,0,0.0,0.15,0.15,0.0,0.15
+271,272,Kamil Grosicki,pl POL,MF,Hull City,31.0,1988.0,28,28,2367,7,4,0,0,3,0,0.27,0.15,0.42,0.27,0.42
+272,273,Kamil Grosicki,pl POL,MF,West Brom,31.0,1988.0,14,4,499,1,3,0,0,0,0,0.18,0.54,0.72,0.18,0.72
+273,274,Joseph Gubbins,eng ENG,DF,QPR,17.0,2001.0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+274,275,Marc Guéhi,eng ENG,DF,Swansea City,19.0,2000.0,12,11,997,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+275,276,Chris Gunter,wal WAL,DFMF,Reading,30.0,1989.0,20,18,1577,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+276,277,Florent Hadergjonaj,xk KVX,DF,Huddersfield,25.0,1994.0,21,14,1401,0,2,0,0,4,0,0.0,0.13,0.13,0.0,0.13
+277,278,Grant Hall,eng ENG,DF,QPR,27.0,1991.0,30,30,2700,5,0,0,0,5,0,0.17,0.0,0.17,0.17,0.17
+278,279,Aapo Halme,fi FIN,DFMF,Barnsley,21.0,1998.0,32,26,2292,4,0,0,0,9,0,0.16,0.0,0.16,0.16,0.16
+279,280,Ben Hamer,eng ENG,GK,Derby County,31.0,1987.0,25,24,2235,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+280,281,Marco Harboe Ramkilde,dk DEN,FW,QPR,21.0,1998.0,1,0,34,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+281,282,Wes Harding,eng ENG,DFMF,Birmingham City,22.0,1996.0,15,7,756,0,1,0,0,2,0,0.0,0.12,0.12,0.0,0.12
+282,283,Rekeem Harper,eng ENG,MF,West Brom,19.0,2000.0,10,4,375,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+283,284,Kian Harratt,eng ENG,FW,Huddersfield,17.0,2002.0,1,0,19,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+284,285,Kadeem Harris,eng ENG,MFFW,Sheffield Weds,26.0,1993.0,43,40,3374,3,4,0,0,4,0,0.08,0.11,0.19,0.08,0.19
+285,286,Jack Harrison,eng ENG,MF,Leeds United,22.0,1996.0,46,45,3794,6,8,0,0,1,0,0.14,0.19,0.33,0.14,0.33
+286,287,Josh Harrop,eng ENG,MF,Preston,23.0,1995.0,32,15,1455,5,1,0,0,4,0,0.31,0.06,0.37,0.31,0.37
+287,288,Michael Hector,jm JAM,DF,Fulham,27.0,1992.0,20,20,1800,0,2,0,0,2,0,0.0,0.1,0.1,0.0,0.1
+288,289,Jahmal Hector-Ingram,eng ENG,FW,Derby County,20.0,1998.0,1,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+289,290,Ahmed Hegazi,eg EGY,DF,West Brom,28.0,1991.0,16,14,1220,1,0,0,0,4,1,0.07,0.0,0.07,0.07,0.07
+290,291,Tomer Hemed,il ISR,FW,Charlton Ath,32.0,1987.0,18,9,798,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+291,292,Markus Henriksen,no NOR,MF,Bristol City,27.0,1992.0,4,4,315,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+292,293,Rico Henry,eng ENG,DFMF,Brentford,22.0,1997.0,46,46,4032,0,2,0,0,5,0,0.0,0.04,0.04,0.0,0.04
+293,294,Pablo Hernández,es ESP,MF,Leeds United,34.0,1985.0,36,27,2497,9,9,0,0,6,0,0.32,0.32,0.65,0.32,0.65
+294,295,Scott High,eng ENG,MF,Huddersfield,18.0,2001.0,1,0,14,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+295,296,Scott Hogan,ie IRL,FW,Birmingham City,27.0,1992.0,17,16,1276,7,1,0,1,0,0,0.49,0.07,0.56,0.49,0.56
+296,297,Scott Hogan,ie IRL,FW,Stoke City,27.0,1992.0,13,4,431,2,0,0,0,0,0,0.42,0.0,0.42,0.42,0.42
+297,298,Jonathan Hogg,eng ENG,MF,Huddersfield,30.0,1988.0,37,37,3012,0,2,0,0,12,0,0.0,0.06,0.06,0.0,0.06
+298,299,Junior Hoilett,ca CAN,MFFW,Cardiff City,29.0,1990.0,41,29,2471,7,2,0,1,6,0,0.25,0.07,0.33,0.25,0.33
+299,300,Duane Holmes,us USA,MF,Derby County,24.0,1994.0,33,29,2465,2,3,0,0,8,0,0.07,0.11,0.18,0.07,0.18
+300,301,Lewis Holtby,de GER,MFFW,Blackburn,28.0,1990.0,27,16,1300,3,4,0,0,0,0,0.21,0.28,0.48,0.21,0.48
+301,302,George Honeyman,eng ENG,MF,Hull City,24.0,1994.0,42,21,2059,1,3,0,0,8,0,0.04,0.13,0.17,0.04,0.17
+302,303,Jonny Howson,eng ENG,DFMF,Middlesbrough,31.0,1988.0,41,41,3654,0,6,0,0,10,1,0.0,0.15,0.15,0.0,0.15
+303,304,Tom Huddlestone,eng ENG,MF,Derby County,32.0,1986.0,11,11,944,1,0,1,1,2,0,0.1,0.0,0.1,0.0,0.0
+304,305,Andrew Hughes,wal WAL,DF,Preston,27.0,1992.0,28,28,2486,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+305,306,Jordan Hugill,eng ENG,FW,QPR,27.0,1992.0,39,30,2837,13,1,0,0,10,0,0.41,0.03,0.44,0.41,0.44
+306,307,Alex Hunt,eng ENG,MF,Sheffield Weds,19.0,2000.0,6,2,187,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+307,308,Jack Hunt,eng ENG,DFMF,Bristol City,28.0,1990.0,35,29,2494,0,5,0,0,6,0,0.0,0.18,0.18,0.0,0.18
+308,309,Paul Huntington,eng ENG,DF,Preston,31.0,1987.0,9,8,765,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+309,310,Sam Hutchinson,eng ENG,MF,Sheffield Weds,29.0,1989.0,23,20,1793,1,1,0,0,10,0,0.05,0.05,0.1,0.05,0.1
+310,311,Shaun Hutchinson,eng ENG,DF,Millwall,28.0,1990.0,36,36,3240,6,1,0,0,4,0,0.17,0.03,0.19,0.17,0.19
+311,312,Danny Hylton,eng ENG,FW,Luton Town,30.0,1989.0,11,2,248,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+312,313,Tom Ince,eng ENG,MFFW,Stoke City,27.0,1992.0,38,31,2703,3,2,0,0,1,0,0.1,0.07,0.17,0.1,0.17
+313,314,Matt Ingram,eng ENG,GK,Hull City,25.0,1993.0,1,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+314,315,Dominic Iorfa,eng ENG,DF,Sheffield Weds,24.0,1995.0,41,40,3522,2,2,0,0,4,0,0.05,0.05,0.1,0.05,0.1
+315,316,Jackson Irvine,au AUS,MF,Hull City,26.0,1993.0,35,34,3024,2,2,0,0,6,0,0.06,0.06,0.12,0.06,0.12
+316,317,Michael Jacobs,eng ENG,MF,Wigan Athletic,27.0,1991.0,32,19,1679,3,4,0,0,1,0,0.16,0.21,0.38,0.16,0.38
+317,318,Pontus Jansson,se SWE,DF,Brentford,28.0,1991.0,34,34,3031,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+318,319,Sylvester Jasper,eng ENG,FW,Fulham,17.0,2001.0,2,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+319,320,Julian Jeanvier,gn GUI,DF,Brentford,27.0,1992.0,26,25,2209,1,0,0,0,2,1,0.04,0.0,0.04,0.04,0.04
+320,321,Carl Jenkinson,eng ENG,DFMF,Nott'ham Forest,27.0,1992.0,8,7,618,0,1,0,0,3,0,0.0,0.15,0.15,0.0,0.15
+321,322,Mathias Jensen,dk DEN,MF,Brentford,23.0,1996.0,39,30,2473,1,6,0,0,2,0,0.04,0.22,0.25,0.04,0.25
+322,323,Lucas João,pt POR,FW,Reading,25.0,1993.0,19,12,1189,6,3,0,0,1,0,0.45,0.23,0.68,0.45,0.68
+323,324,Lucas João,pt POR,FW,Sheffield Weds,25.0,1993.0,1,0,13,1,0,0,0,0,0,6.92,0.0,6.92,6.92,6.92
+324,325,Stefan Johansen,no NOR,MF,Fulham,28.0,1991.0,33,19,1695,0,4,0,0,3,0,0.0,0.21,0.21,0.0,0.21
+325,326,Declan John,wal WAL,DF,Swansea City,24.0,1995.0,1,0,19,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+326,327,Bradley Johnson,eng ENG,MF,Blackburn,32.0,1987.0,34,25,2279,3,2,0,0,4,0,0.12,0.08,0.2,0.12,0.2
+327,328,Brennan Johnson,wal WAL,MF,Nott'ham Forest,18.0,2001.0,4,2,110,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+328,329,Daniel Johnson,jm JAM,MF,Preston,26.0,1992.0,33,32,2752,12,7,6,6,3,0,0.39,0.23,0.62,0.2,0.43
+329,330,Marvin Johnson,eng ENG,MFDF,Middlesbrough,28.0,1990.0,38,29,2612,1,3,0,0,4,1,0.03,0.1,0.14,0.03,0.14
+330,331,Sam Johnstone,eng ENG,GK,West Brom,26.0,1993.0,46,46,4140,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+331,332,Jamie Jones,eng ENG,GK,Wigan Athletic,30.0,1989.0,7,7,630,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+332,333,Lloyd Jones,eng ENG,DF,Luton Town,23.0,1995.0,4,1,111,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+333,334,Florian Jozefzoon,nl NED,MFFW,Derby County,28.0,1991.0,14,6,644,0,1,0,0,2,0,0.0,0.14,0.14,0.0,0.14
+334,335,Mads Juel Andersen,dk DEN,DF,Barnsley,21.0,1997.0,38,37,3269,0,1,0,0,9,0,0.0,0.03,0.03,0.0,0.03
+335,336,Lukas Jutkiewicz,eng ENG,FW,Birmingham City,30.0,1989.0,46,42,3846,15,3,0,1,5,0,0.35,0.07,0.42,0.35,0.42
+336,337,Elias Kachunga,cd COD,MFFW,Huddersfield,27.0,1992.0,36,30,2630,3,3,0,0,4,0,0.1,0.1,0.21,0.1,0.21
+337,338,Osman Kakay,sl SLE,DFMF,QPR,21.0,1997.0,7,7,620,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+338,339,Tomáš Kalas,cz CZE,DF,Bristol City,26.0,1993.0,23,23,2011,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+339,340,Aldo Kalulu,fr FRA,MF,Swansea City,23.0,1996.0,11,7,465,0,1,0,0,2,0,0.0,0.19,0.19,0.0,0.19
+340,341,Aboubakar Kamara,fr FRA,FWMF,Fulham,24.0,1995.0,25,8,919,4,4,0,0,2,0,0.39,0.39,0.78,0.39,0.78
+341,342,Herbie Kane,eng ENG,MF,Hull City,20.0,1998.0,7,6,456,2,0,0,0,0,0,0.39,0.0,0.39,0.39,0.39
+342,343,Todd Kane,eng ENG,DF,QPR,25.0,1993.0,32,21,2046,1,0,0,0,3,0,0.04,0.0,0.04,0.04,0.04
+343,344,Nikos Karelis,gr GRE,FW,Brentford,27.0,1992.0,4,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+344,345,Beram Kayal,il ISR,MF,Charlton Ath,31.0,1988.0,6,2,213,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+345,346,Neeskens Kebano,cd COD,MFFW,Fulham,27.0,1992.0,16,5,588,3,1,0,0,3,1,0.46,0.15,0.61,0.46,0.61
+346,347,Liam Kelly,sco SCO,GK,QPR,23.0,1996.0,19,19,1710,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+347,348,Richard Keogh,ie IRL,DF,Derby County,32.0,1986.0,8,8,720,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+348,349,Maikel Kieftenbeld,nl NED,MF,Birmingham City,29.0,1990.0,8,2,233,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+349,350,Andy King,wal WAL,MF,Huddersfield,30.0,1988.0,14,6,594,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+350,351,Stephen Kingsley,sco SCO,DF,Hull City,25.0,1994.0,8,7,628,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+351,352,Peter Kioso,cd COD,DF,Luton Town,,,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+352,353,Cédric Kipré,ci CIV,DF,Wigan Athletic,22.0,1996.0,36,32,2916,2,0,0,0,10,1,0.06,0.0,0.06,0.06,0.06
+353,354,Mateusz Klich,pl POL,MF,Leeds United,29.0,1990.0,45,45,3798,6,5,2,3,8,0,0.14,0.12,0.26,0.09,0.21
+354,355,Jason Knight,ie IRL,MF,Derby County,18.0,2001.0,31,20,1806,6,0,0,0,5,0,0.3,0.0,0.3,0.3,0.3
+355,356,Anthony Knockaert,fr FRA,FWMF,Fulham,27.0,1991.0,42,32,2836,3,4,0,0,6,0,0.1,0.13,0.22,0.1,0.22
+356,357,Terence Kongolo,nl NED,DF,Fulham,25.0,1994.0,1,0,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+357,358,Terence Kongolo,nl NED,DF,Huddersfield,25.0,1994.0,11,10,872,0,1,0,0,0,0,0.0,0.1,0.1,0.0,0.1
+358,359,Josh Koroma,eng ENG,MF,Huddersfield,20.0,1998.0,7,3,298,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+359,360,Filip Krovinović,hr CRO,MF,West Brom,23.0,1995.0,40,24,2295,3,2,0,0,3,0,0.12,0.08,0.2,0.12,0.2
+360,361,Rajiv van La Parra,nl NED,MF,Huddersfield,28.0,1991.0,4,3,220,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+361,362,Luca de la Torre,us USA,MF,Fulham,21.0,1998.0,2,0,9,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+362,363,Callum Lang,eng ENG,FWMF,Wigan Athletic,20.0,1998.0,1,0,32,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+363,364,George Lapslie,eng ENG,MF,Charlton Ath,21.0,1997.0,10,4,453,1,0,0,0,3,0,0.2,0.0,0.2,0.2,0.2
+364,365,Tom Lawrence,wal WAL,MFFW,Derby County,25.0,1994.0,37,37,3219,10,3,0,0,12,1,0.28,0.08,0.36,0.28,0.36
+365,366,Maxime Le Marchand,fr FRA,DF,Fulham,29.0,1989.0,12,3,305,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+366,367,Joe Ledley,wal WAL,MF,Charlton Ath,32.0,1987.0,1,1,45,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+367,368,Ryan Ledson,eng ENG,MFDF,Preston,21.0,1997.0,13,8,695,0,1,0,0,2,0,0.0,0.13,0.13,0.0,0.13
+368,369,Elliot Lee,eng ENG,MFFW,Luton Town,24.0,1994.0,11,8,578,1,0,0,0,0,0,0.16,0.0,0.16,0.16,0.16
+369,370,Kieran Lee,eng ENG,MF,Sheffield Weds,31.0,1988.0,28,20,1671,0,3,0,0,6,0,0.0,0.16,0.16,0.0,0.16
+370,371,Tom Lees,eng ENG,DF,Sheffield Weds,28.0,1990.0,27,24,2216,2,1,0,0,1,0,0.08,0.04,0.12,0.08,0.12
+371,372,Toni Leistner,de GER,DF,QPR,28.0,1990.0,22,20,1818,0,1,0,0,3,0,0.0,0.05,0.05,0.0,0.05
+372,373,Jonathan Leko,eng ENG,FWMF,Charlton Ath,20.0,1999.0,21,19,1511,5,4,0,0,2,0,0.3,0.24,0.54,0.3,0.54
+373,374,Darragh Lenihan,ie IRL,DF,Blackburn,25.0,1994.0,37,37,3306,3,2,0,0,12,0,0.08,0.05,0.14,0.08,0.14
+374,375,Ryan Leonard,eng ENG,MF,Millwall,27.0,1992.0,17,13,1082,1,0,0,0,1,0,0.08,0.0,0.08,0.08,0.08
+375,376,Keane Lewis-Potter,eng ENG,MF,Hull City,18.0,2001.0,21,1,507,2,1,0,0,0,0,0.36,0.18,0.53,0.36,0.53
+376,377,Eric Lichaj,us USA,DF,Hull City,30.0,1988.0,29,29,2544,0,2,0,0,3,0,0.0,0.07,0.07,0.0,0.07
+377,378,Ben Liddle,eng ENG,MF,Middlesbrough,20.0,1998.0,1,0,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+378,379,Liam Lindsay,sco SCO,DF,Stoke City,23.0,1995.0,20,17,1550,2,0,0,0,5,0,0.12,0.0,0.12,0.12,0.12
+379,380,Jake Livermore,eng ENG,MF,West Brom,29.0,1989.0,45,43,3741,3,4,0,0,10,0,0.07,0.1,0.17,0.07,0.17
+380,381,Danny Loader,eng ENG,MF,Reading,18.0,2000.0,7,1,112,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+381,382,Tom Lockyer,wal WAL,DF,Charlton Ath,24.0,1994.0,43,43,3870,0,0,0,0,11,0,0.0,0.0,0.0,0.0,0.0
+382,383,Joe Lolley,eng ENG,MF,Nott'ham Forest,26.0,1992.0,42,37,3218,9,8,0,0,1,0,0.25,0.22,0.48,0.25,0.48
+383,384,George Long,eng ENG,GK,Hull City,25.0,1993.0,45,45,4050,0,1,0,0,2,0,0.0,0.02,0.02,0.0,0.02
+384,385,Jonas Lössl,dk DEN,GK,Huddersfield,30.0,1989.0,15,15,1350,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+385,386,Jamal Lowe,eng ENG,MFFW,Wigan Athletic,25.0,1994.0,46,40,3453,6,5,0,0,0,0,0.16,0.13,0.29,0.16,0.29
+386,387,Max Lowe,eng ENG,DF,Derby County,22.0,1997.0,29,24,2284,0,1,0,0,1,1,0.0,0.04,0.04,0.0,0.04
+387,388,Kazenga LuaLua,cd COD,FWMF,Luton Town,28.0,1990.0,29,15,1450,3,0,0,0,3,0,0.19,0.0,0.19,0.19,0.19
+388,389,Kilian Ludewig,de GER,MFDF,Barnsley,19.0,2000.0,18,13,1258,0,1,0,0,0,0,0.0,0.07,0.07,0.0,0.07
+389,390,Joe Lumley,eng ENG,GK,QPR,24.0,1995.0,27,27,2430,0,1,0,0,0,0,0.0,0.04,0.04,0.0,0.04
+390,391,Massimo Luongo,au AUS,MF,Sheffield Weds,26.0,1992.0,27,17,1472,3,0,0,0,4,1,0.18,0.0,0.18,0.18,0.18
+391,392,Angus MacDonald,eng ENG,DF,Hull City,26.0,1992.0,5,5,439,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+392,393,Lewis Macleod,sco SCO,MF,Wigan Athletic,25.0,1994.0,12,11,894,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+393,394,Marcus Maddison,eng ENG,MF,Hull City,25.0,1993.0,7,4,340,1,0,0,0,0,0,0.26,0.0,0.26,0.26,0.26
+394,395,Gary Madine,eng ENG,FW,Cardiff City,28.0,1990.0,8,5,385,0,1,0,0,2,0,0.0,0.23,0.23,0.0,0.23
+395,396,Niki Mäenpää,fi FIN,GK,Bristol City,34.0,1985.0,4,4,297,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+396,397,Josh Magennis,nir NIR,FW,Hull City,28.0,1990.0,29,20,1714,4,2,1,1,4,2,0.21,0.11,0.32,0.16,0.26
+397,398,Jacques Maghoma,cd COD,MF,Birmingham City,31.0,1987.0,18,7,851,1,1,0,0,1,0,0.11,0.11,0.21,0.11,0.21
+398,399,Seán Maguire,ie IRL,MFFW,Preston,25.0,1994.0,44,36,3152,5,2,0,0,1,0,0.14,0.06,0.2,0.14,0.2
+399,400,Connor Mahoney,eng ENG,MFFW,Millwall,22.0,1997.0,38,14,1463,3,5,0,0,0,0,0.18,0.31,0.49,0.18,0.49
+400,401,Scott Malone,eng ENG,DF,Derby County,28.0,1991.0,18,15,1176,1,0,0,0,4,1,0.08,0.0,0.08,0.08,0.08
+401,402,Ryan Manning,ie IRL,DF,QPR,23.0,1996.0,41,41,3689,4,7,0,0,6,0,0.1,0.17,0.27,0.1,0.27
+402,403,Emiliano Marcondes,dk DEN,MFFW,Brentford,24.0,1995.0,25,13,1255,2,7,0,0,1,0,0.14,0.5,0.65,0.14,0.65
+403,404,Jack Marriott,eng ENG,FWMF,Derby County,24.0,1994.0,32,10,1137,2,2,0,0,0,0,0.16,0.16,0.32,0.16,0.32
+404,405,David Marshall,sco SCO,GK,Wigan Athletic,34.0,1985.0,39,39,3510,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+405,406,Chris Martin,sco SCO,FW,Derby County,30.0,1988.0,35,25,2088,11,6,2,2,3,0,0.47,0.26,0.73,0.39,0.65
+406,407,Bruno Martins Indi,nl NED,DF,Stoke City,27.0,1992.0,33,31,2793,0,2,0,0,2,0,0.0,0.06,0.06,0.0,0.06
+407,408,Ayub Masika,ke KEN,FWMF,Reading,26.0,1992.0,5,0,83,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+408,409,Han-Noah Massengo,fr FRA,MF,Bristol City,18.0,2001.0,25,23,1909,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+409,410,Gavin Massey,eng ENG,MFFW,Wigan Athletic,26.0,1992.0,31,21,1729,0,1,0,0,4,0,0.0,0.05,0.05,0.0,0.05
+410,411,Conor Masterson,ie IRL,DF,QPR,20.0,1998.0,12,10,967,1,0,0,0,1,0,0.09,0.0,0.09,0.09,0.09
+411,412,Adam Matthews,wal WAL,DFMF,Charlton Ath,27.0,1992.0,29,28,2521,0,1,0,0,4,0,0.0,0.04,0.04,0.0,0.04
+412,413,Alfie Mawson,eng ENG,DF,Fulham,25.0,1994.0,27,25,2193,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+413,414,Isaac Mbenza,be BEL,MF,Huddersfield,23.0,1996.0,5,1,188,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+414,415,Bryan Mbeumo,fr FRA,FW,Brentford,19.0,1999.0,42,36,2934,15,7,0,0,3,0,0.46,0.21,0.67,0.46,0.67
+415,416,Jason McCarthy,eng ENG,DF,Millwall,23.0,1995.0,2,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+416,417,James McClean,ie IRL,MFFW,Stoke City,30.0,1989.0,36,33,2985,7,7,0,0,10,0,0.21,0.21,0.42,0.21,0.42
+417,418,Garath McCleary,jm JAM,MF,Reading,32.0,1987.0,19,2,478,1,2,0,0,0,0,0.19,0.38,0.56,0.19,0.56
+418,419,Kevin McDonald,sco SCO,MF,Fulham,30.0,1988.0,16,7,623,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+419,420,Josh McEachran,eng ENG,MF,Birmingham City,26.0,1993.0,8,5,393,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+420,421,Aiden McGeady,ie IRL,MFFW,Charlton Ath,33.0,1986.0,10,8,589,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+421,422,Cameron McGeehan,nir NIR,MF,Barnsley,24.0,1995.0,13,10,883,2,0,0,0,4,0,0.2,0.0,0.2,0.2,0.2
+422,423,Tom McIntyre,sco SCO,DF,Reading,20.0,1998.0,10,9,776,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+423,424,Barrie McKay,sco SCO,FWMF,Swansea City,24.0,1994.0,4,0,77,0,2,0,0,0,0,0.0,2.34,2.34,0.0,2.34
+424,425,Robbie McKenzie,eng ENG,DF,Hull City,20.0,1998.0,8,8,674,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+425,426,Sean McLoughlin,ie IRL,DF,Hull City,22.0,1996.0,7,5,503,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+426,427,Callum McManaman,eng ENG,FWMF,Luton Town,28.0,1991.0,23,10,917,4,0,0,0,1,0,0.39,0.0,0.39,0.39,0.39
+427,428,Paddy McNair,nir NIR,MFDF,Middlesbrough,24.0,1995.0,41,36,3279,6,2,2,3,6,1,0.16,0.05,0.22,0.11,0.16
+428,429,Agus Medina,es ESP,DF,Birmingham City,24.0,1994.0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+429,430,Yakou Méïte,ci CIV,MFFW,Reading,23.0,1996.0,40,32,2877,13,1,1,2,5,1,0.41,0.03,0.44,0.38,0.41
+430,431,Nathaniel Mendez-Laing,eng ENG,MFFW,Cardiff City,27.0,1992.0,27,21,1811,3,4,0,0,0,0,0.15,0.2,0.35,0.15,0.35
+431,432,Illan Meslier,fr FRA,GK,Leeds United,19.0,2000.0,10,10,900,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+432,433,Matt Miazga,us USA,DF,Reading,24.0,1995.0,20,19,1598,2,0,0,0,2,1,0.11,0.0,0.11,0.11,0.11
+433,434,Alexander Mighten,eng ENG,FW,Nott'ham Forest,17.0,2002.0,8,0,53,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+434,435,George Miller,eng ENG,DFFW,Barnsley,21.0,1998.0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+435,436,Rafa Mir,es ESP,FW,Nott'ham Forest,22.0,1997.0,11,2,217,0,1,0,0,0,0,0.0,0.41,0.41,0.0,0.41
+436,437,Billy Mitchell,eng ENG,MF,Millwall,,,7,1,133,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+437,438,Aleksandar Mitrović,rs SRB,FW,Fulham,24.0,1994.0,40,40,3589,26,2,4,5,8,0,0.65,0.05,0.7,0.55,0.6
+438,439,Jan Mlakar,si SVN,FW,Wigan Athletic,20.0,1998.0,1,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+439,440,Jan Mlakar,si SVN,FW,QPR,20.0,1998.0,6,0,106,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+440,441,Kamohelo Mokotjo,za RSA,MF,Brentford,28.0,1991.0,25,14,1375,1,2,0,0,0,0,0.07,0.13,0.2,0.07,0.2
+441,442,Jayson Molumby,ie IRL,MF,Millwall,19.0,1999.0,36,31,2790,1,1,0,0,9,0,0.03,0.03,0.06,0.03,0.06
+442,443,George Moncur,eng ENG,FW,Luton Town,25.0,1993.0,17,1,444,1,0,0,0,1,0,0.2,0.0,0.2,0.2,0.2
+443,444,Jefferson Montero,ec ECU,MF,Birmingham City,29.0,1989.0,14,2,322,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+444,445,Kieffer Moore,wal WAL,FW,Wigan Athletic,26.0,1992.0,36,32,2799,10,4,2,2,1,0,0.32,0.13,0.45,0.26,0.39
+445,446,Liam Moore,eng ENG,DF,Reading,26.0,1993.0,43,40,3640,1,0,0,0,5,0,0.02,0.0,0.02,0.02,0.02
+446,447,Taylor Moore,eng ENG,DF,Bristol City,22.0,1997.0,21,16,1292,1,0,0,0,1,0,0.07,0.0,0.07,0.07,0.07
+447,448,Aaron Mooy,au AUS,MF,Huddersfield,28.0,1990.0,1,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+448,449,Albie Morgan,eng ENG,MF,Charlton Ath,,,21,11,1090,0,2,0,0,4,0,0.0,0.17,0.17,0.0,0.17
+449,450,Michael Morrison,eng ENG,DF,Reading,31.0,1988.0,44,43,3789,2,1,0,0,6,0,0.05,0.02,0.07,0.05,0.07
+450,451,Ravel Morrison,eng ENG,MF,Middlesbrough,26.0,1993.0,3,3,213,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+451,452,Sean Morrison,eng ENG,DF,Cardiff City,28.0,1991.0,36,35,3150,4,2,0,0,4,1,0.11,0.06,0.17,0.11,0.17
+452,453,Sam Morsy,eg EGY,MF,Wigan Athletic,27.0,1991.0,43,43,3870,3,3,0,0,12,0,0.07,0.07,0.14,0.07,0.14
+453,454,Harold Moukoudi,cm CMR,DFMF,Middlesbrough,21.0,1997.0,8,8,720,0,1,0,0,2,0,0.0,0.12,0.12,0.0,0.12
+454,455,Louis Moult,eng ENG,FW,Preston,27.0,1992.0,2,2,102,1,0,0,0,0,0,0.88,0.0,0.88,0.88,0.88
+455,456,Steve Mounié,bj BEN,FW,Huddersfield,24.0,1994.0,30,12,1421,8,2,1,1,0,0,0.51,0.13,0.63,0.44,0.57
+456,457,Alex Mowatt,eng ENG,MF,Barnsley,24.0,1995.0,44,44,3914,3,8,0,0,8,0,0.07,0.18,0.25,0.07,0.25
+457,458,Kerim Mrabti,se SWE,FWMF,Birmingham City,25.0,1994.0,15,12,877,2,1,1,1,3,0,0.21,0.1,0.31,0.1,0.21
+458,459,Erwin Mulder,nl NED,GK,Swansea City,30.0,1989.0,4,3,271,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+459,460,Charlie Mulgrew,sco SCO,DF,Wigan Athletic,33.0,1986.0,12,12,1051,0,1,0,0,2,0,0.0,0.09,0.09,0.0,0.09
+460,461,Charlie Mulgrew,sco SCO,DF,Blackburn,33.0,1986.0,2,2,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+461,462,Hayden Muller,eng ENG,DF,Millwall,17.0,2002.0,1,0,30,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+462,463,Arijanet Muric,xk KVX,GK,Nott'ham Forest,20.0,1998.0,4,4,360,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+463,464,Jacob Murphy,eng ENG,MFFW,Sheffield Weds,24.0,1995.0,39,24,2298,9,4,0,0,0,0,0.35,0.16,0.51,0.35,0.51
+464,465,Josh Murphy,eng ENG,MF,Cardiff City,24.0,1995.0,27,16,1446,5,3,0,0,4,0,0.31,0.19,0.5,0.31,0.5
+465,466,Ádám Nagy,hu HUN,MF,Bristol City,24.0,1995.0,23,16,1488,1,1,0,0,1,0,0.06,0.06,0.12,0.06,0.12
+466,467,Kal Naismith,sco SCO,DFMF,Wigan Athletic,27.0,1992.0,37,22,2233,3,0,0,0,3,0,0.12,0.0,0.12,0.12,0.12
+467,468,Kyle Naughton,eng ENG,DF,Swansea City,30.0,1988.0,32,28,2487,3,0,0,0,5,1,0.11,0.0,0.11,0.11,0.11
+468,469,Badou Ndiaye,sn SEN,MF,Stoke City,28.0,1990.0,13,10,880,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+469,470,Curtis Nelson,eng ENG,DF,Cardiff City,26.0,1993.0,33,31,2902,1,0,0,0,3,0,0.03,0.0,0.03,0.03,0.03
+470,471,Julien Ngoy,be BEL,FW,Stoke City,21.0,1997.0,1,0,12,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+471,472,Eddie Nketiah,eng ENG,FW,Leeds United,20.0,1999.0,17,2,509,3,0,0,0,2,0,0.53,0.0,0.53,0.53,0.53
+472,473,Lukas Nmecha,de GER,FWMF,Middlesbrough,20.0,1998.0,11,4,472,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+473,474,Andrija Novakovich,us USA,FW,Reading,22.0,1996.0,1,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+474,475,David Nugent,eng ENG,FW,Preston,34.0,1985.0,24,11,1022,1,0,0,0,1,0,0.09,0.0,0.09,0.09,0.09
+475,476,Atdhe Nuhiu,xk KVX,FW,Sheffield Weds,30.0,1989.0,38,14,1501,6,3,1,1,7,0,0.36,0.18,0.54,0.3,0.48
+476,477,Ryan Nyambe,na NAM,DF,Blackburn,21.0,1997.0,31,30,2608,0,1,0,0,2,0,0.0,0.03,0.03,0.0,0.03
+477,478,Christian Nørgaard,dk DEN,MF,Brentford,25.0,1994.0,42,40,3462,0,3,0,0,9,0,0.0,0.08,0.08,0.0,0.08
+478,479,Aiden O'Brien,ie IRL,MFFW,Millwall,25.0,1993.0,18,8,662,3,0,0,0,1,0,0.41,0.0,0.41,0.41,0.41
+479,480,Lewis O'Brien,eng ENG,MF,Huddersfield,20.0,1998.0,38,36,3207,2,4,0,0,10,0,0.06,0.11,0.17,0.06,0.17
+480,481,Callum O'Dowda,ie IRL,MF,Bristol City,24.0,1995.0,32,17,1619,1,1,0,0,2,0,0.06,0.06,0.11,0.06,0.11
+481,482,Tyrone O'Neill,eng ENG,FW,Middlesbrough,19.0,1999.0,1,0,14,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+482,483,Matt O'Riley,eng ENG,MF,Fulham,18.0,2000.0,1,0,64,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+483,484,Dara O'Shea,ie IRL,DF,West Brom,20.0,1999.0,17,16,1482,3,0,0,0,4,0,0.18,0.0,0.18,0.18,0.18
+484,485,Tashan Oakley-Boothe,eng ENG,MF,Stoke City,19.0,2000.0,2,1,115,0,1,0,0,0,0,0.0,0.78,0.78,0.0,0.78
+485,486,Micah Obiero,eng ENG,FW,Huddersfield,18.0,2001.0,1,0,45,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+486,487,Jordan Obita,eng ENG,MFDF,Reading,25.0,1993.0,21,14,1353,2,3,0,0,3,0,0.13,0.2,0.33,0.13,0.33
+487,488,Denis Odoi,be BEL,DF,Fulham,31.0,1988.0,34,30,2599,0,1,0,0,7,1,0.0,0.03,0.03,0.0,0.03
+488,489,Clarke Odour,eng ENG,DFMF,Barnsley,20.0,1999.0,16,12,944,1,0,0,0,1,0,0.1,0.0,0.1,0.1,0.1
+489,490,Moses Odubajo,eng ENG,DFMF,Sheffield Weds,26.0,1993.0,22,19,1705,0,0,0,0,7,1,0.0,0.0,0.0,0.0,0.0
+490,491,Jaakko Oksanen,fi FIN,MF,Brentford,18.0,2000.0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+491,492,Michael Olise,fr FRA,MF,Reading,,,19,13,1132,0,1,0,0,0,0,0.0,0.08,0.08,0.0,0.08
+492,493,Josh Onomah,eng ENG,MF,Fulham,22.0,1997.0,31,20,1789,3,3,0,0,3,0,0.15,0.15,0.3,0.15,0.3
+493,494,Bright Osayi-Samuel,eng ENG,MFFW,QPR,21.0,1997.0,37,34,2957,5,9,0,0,9,0,0.15,0.27,0.43,0.15,0.43
+494,495,Deji Oshilaja,eng ENG,DFMF,Charlton Ath,26.0,1993.0,25,19,1583,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+495,496,Gabriel Osho,eng ENG,DF,Reading,20.0,1998.0,5,4,347,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+496,497,Aramide Oteh,eng ENG,MF,QPR,20.0,1998.0,9,1,188,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+497,498,Erhun Oztumer,tr TUR,FWMF,Charlton Ath,28.0,1991.0,14,11,793,0,1,0,0,0,0,0.0,0.11,0.11,0.0,0.11
+498,499,Marlon Pack,eng ENG,MF,Cardiff City,28.0,1991.0,37,32,2843,2,3,0,0,4,0,0.06,0.09,0.16,0.06,0.16
+499,500,Marlon Pack,eng ENG,MF,Bristol City,28.0,1991.0,1,1,90,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+500,501,Kasey Palmer,eng ENG,MF,Bristol City,22.0,1996.0,25,11,1063,1,3,0,0,5,0,0.08,0.25,0.34,0.08,0.34
+501,502,Liam Palmer,sco SCO,DF,Sheffield Weds,27.0,1991.0,33,33,2873,0,1,0,0,2,1,0.0,0.03,0.03,0.0,0.03
+502,503,Romal Palmer,eng ENG,MF,Barnsley,,,3,3,175,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+503,504,Callum Paterson,sco SCO,FWMF,Cardiff City,24.0,1994.0,36,18,1793,5,0,0,0,2,0,0.25,0.0,0.25,0.25,0.25
+504,505,Jamie Paterson,eng ENG,MF,Derby County,27.0,1991.0,10,5,492,1,2,0,0,0,0,0.18,0.37,0.55,0.18,0.55
+505,506,Jamie Paterson,eng ENG,MF,Bristol City,27.0,1991.0,21,15,1363,6,2,0,0,2,0,0.4,0.13,0.53,0.4,0.53
+506,507,Alex Pearce,ie IRL,DF,Millwall,30.0,1988.0,29,28,2356,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+507,508,Jason Pearce,eng ENG,DF,Charlton Ath,31.0,1987.0,39,35,3125,1,2,0,0,4,0,0.03,0.06,0.09,0.03,0.09
+508,509,Tom Pearce,eng ENG,DF,Wigan Athletic,21.0,1998.0,7,4,361,0,1,0,0,0,0,0.0,0.25,0.25,0.0,0.25
+509,510,Aynsley Pears,eng ENG,GK,Middlesbrough,21.0,1998.0,24,24,2160,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+510,511,Ben Pearson,eng ENG,MF,Preston,24.0,1995.0,38,38,3327,1,0,0,0,9,0,0.03,0.0,0.03,0.03,0.03
+511,512,Matty Pearson,eng ENG,DF,Luton Town,25.0,1993.0,42,41,3665,2,0,0,0,2,0,0.05,0.0,0.05,0.05,0.05
+512,513,Kristian Pedersen,dk DEN,DF,Birmingham City,24.0,1994.0,44,44,3960,4,2,0,0,2,0,0.09,0.05,0.14,0.09,0.14
+513,514,Pelé,gw GNB,MF,Reading,27.0,1991.0,31,26,2171,1,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08
+514,515,Lee Peltier,eng ENG,DF,Cardiff City,32.0,1986.0,25,24,2158,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+515,516,Joey Pelupessy,nl NED,MF,Sheffield Weds,26.0,1993.0,17,11,935,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+516,517,Matthew Pennington,eng ENG,DF,Hull City,24.0,1994.0,14,13,1105,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+517,518,Matheus Pereira,br BRA,MFFW,West Brom,23.0,1996.0,42,38,3365,8,17,0,0,5,0,0.21,0.45,0.67,0.21,0.67
+518,519,Pedro Pereira,pt POR,MFDF,Bristol City,21.0,1998.0,21,14,1254,2,1,0,0,3,0,0.14,0.07,0.22,0.14,0.22
+519,520,Kristoffer Peterson,se SWE,MF,Swansea City,24.0,1994.0,7,4,355,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+520,521,Dillon Phillips,eng ENG,GK,Charlton Ath,24.0,1995.0,46,46,4140,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+521,522,Kalvin Phillips,eng ENG,MF,Leeds United,23.0,1995.0,37,37,3250,2,2,0,0,9,1,0.06,0.06,0.11,0.06,0.11
+522,523,Matt Phillips,sco SCO,MF,West Brom,28.0,1991.0,39,30,2417,7,6,0,0,5,0,0.26,0.22,0.48,0.26,0.48
+523,524,Anthony Pilkington,ie IRL,MF,Wigan Athletic,31.0,1988.0,16,9,726,3,0,0,0,2,0,0.37,0.0,0.37,0.37,0.37
+524,525,Daniel Pinillos,es ESP,DF,Barnsley,26.0,1992.0,4,2,156,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+525,526,Ethan Pinnock,eng ENG,DF,Brentford,26.0,1993.0,36,34,3038,2,4,0,0,1,0,0.06,0.12,0.18,0.06,0.18
+526,527,Brad Potts,eng ENG,MF,Preston,25.0,1994.0,32,14,1359,2,1,0,0,1,0,0.13,0.07,0.2,0.13,0.2
+527,528,Dan Potts,eng ENG,DF,Luton Town,25.0,1994.0,33,31,2740,1,1,0,0,10,0,0.03,0.03,0.07,0.03,0.07
+528,529,Nick Powell,eng ENG,MF,Stoke City,25.0,1994.0,29,22,1876,5,5,0,0,4,1,0.24,0.24,0.48,0.24,0.48
+529,530,Darren Pratley,jm JAM,MFDF,Charlton Ath,34.0,1985.0,36,30,2811,2,1,0,0,11,0,0.06,0.03,0.1,0.06,0.1
+530,531,Alex Pritchard,eng ENG,MFFW,Huddersfield,26.0,1993.0,18,10,964,0,1,0,0,0,0,0.0,0.09,0.09,0.0,0.09
+531,532,Marc Pugh,eng ENG,MF,QPR,32.0,1987.0,27,12,1168,2,2,0,0,0,0,0.15,0.15,0.31,0.15,0.31
+532,533,Ben Purrington,eng ENG,DFMF,Charlton Ath,23.0,1996.0,31,24,2130,2,0,0,0,4,0,0.08,0.0,0.08,0.08,0.08
+533,534,George Pușcaș,ro ROU,FW,Reading,23.0,1996.0,38,30,2531,12,3,4,4,5,0,0.43,0.11,0.53,0.28,0.39
+534,535,Rekeil Pyke,eng ENG,FW,Huddersfield,21.0,1997.0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+535,536,Collin Quaner,de GER,FW,Huddersfield,28.0,1991.0,5,0,71,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+536,537,Luka Racic,dk DEN,DF,Brentford,20.0,1999.0,4,3,237,1,0,0,0,0,0,0.38,0.0,0.38,0.38,0.38
+537,538,Joe Rafferty,ie IRL,DF,Preston,25.0,1993.0,29,28,2476,1,1,0,0,2,1,0.04,0.04,0.07,0.04,0.07
+538,539,Joe Ralls,eng ENG,MF,Cardiff City,25.0,1993.0,27,25,2214,7,3,2,2,5,0,0.28,0.12,0.41,0.2,0.33
+539,540,Darren Randolph,ie IRL,GK,Middlesbrough,32.0,1987.0,14,14,1260,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+540,541,Àngel Rangel,es ESP,DF,QPR,36.0,1982.0,21,21,1655,0,0,0,0,6,0,0.0,0.0,0.0,0.0,0.0
+541,542,Joe Rankin-Costello,eng ENG,DFMF,Blackburn,20.0,1999.0,11,8,696,0,1,0,0,1,0,0.0,0.13,0.13,0.0,0.13
+542,543,David Raya,es ESP,GK,Brentford,23.0,1995.0,46,46,4140,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+543,544,Glen Rea,ie IRL,MF,Luton Town,24.0,1994.0,15,13,1128,0,0,0,0,8,0,0.0,0.0,0.0,0.0,0.0
+544,545,Adam Reach,eng ENG,MF,Sheffield Weds,26.0,1993.0,37,26,2340,1,6,0,0,5,0,0.04,0.23,0.27,0.04,0.27
+545,546,Tim Ream,us USA,DF,Fulham,31.0,1987.0,44,44,3950,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+546,547,Harrison Reed,eng ENG,MF,Fulham,24.0,1995.0,25,21,1821,0,1,0,0,6,1,0.0,0.05,0.05,0.0,0.05
+547,548,Bobby Reid,jm JAM,MF,Cardiff City,26.0,1993.0,1,1,90,0,1,0,0,1,0,0.0,1.0,1.0,0.0,1.0
+548,549,Bobby Reid,jm JAM,MFFW,Fulham,26.0,1993.0,41,30,2845,6,2,0,0,4,0,0.19,0.06,0.25,0.19,0.25
+549,550,Jayden Reid,eng ENG,FW,Birmingham City,18.0,2001.0,4,0,85,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+550,551,Jordan Rhodes,sco SCO,FW,Sheffield Weds,29.0,1990.0,16,7,687,3,0,0,0,1,0,0.39,0.0,0.39,0.39,0.39
+551,552,Yuri Ribeiro,pt POR,DFMF,Nott'ham Forest,22.0,1997.0,27,27,2388,0,3,0,0,5,0,0.0,0.11,0.11,0.0,0.11
+552,553,Jazz Richards,wal WAL,DF,Cardiff City,28.0,1991.0,11,10,946,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+553,554,Omar Richards,eng ENG,MFDF,Reading,21.0,1998.0,28,23,2091,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+554,555,Andy Rinomhota,eng ENG,MF,Reading,22.0,1997.0,37,28,2582,1,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07
+555,556,Marcel Ritzmaier,at AUT,MF,Barnsley,26.0,1993.0,15,13,1049,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+556,557,Connor Roberts,wal WAL,DFMF,Swansea City,23.0,1995.0,38,32,2932,1,4,0,0,2,0,0.03,0.12,0.15,0.03,0.15
+557,558,Gary Roberts,eng ENG,MF,Wigan Athletic,35.0,1984.0,9,3,295,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+558,559,Marc Roberts,eng ENG,DF,Birmingham City,29.0,1990.0,34,33,2912,0,2,0,0,6,0,0.0,0.06,0.06,0.0,0.06
+559,560,Patrick Roberts,eng ENG,MFFW,Middlesbrough,22.0,1997.0,10,8,608,1,2,0,0,1,0,0.15,0.3,0.44,0.15,0.44
+560,561,Tyler Roberts,wal WAL,MF,Leeds United,20.0,1999.0,23,12,1090,4,1,0,0,1,0,0.33,0.08,0.41,0.33,0.41
+561,562,Antonee Robinson,us USA,DF,Wigan Athletic,21.0,1997.0,38,38,3352,1,1,0,0,8,0,0.03,0.03,0.05,0.03,0.05
+562,563,Callum Robinson,ie IRL,FWMF,West Brom,24.0,1995.0,16,10,853,3,2,0,0,1,0,0.32,0.21,0.53,0.32,0.53
+563,564,Jack Robinson,eng ENG,DF,Nott'ham Forest,25.0,1993.0,18,16,1471,0,1,0,0,3,0,0.0,0.06,0.06,0.0,0.06
+564,565,Hal Robson-Kanu,wal WAL,FW,West Brom,30.0,1989.0,39,24,2317,10,1,1,1,5,0,0.39,0.04,0.43,0.35,0.39
+565,566,Marek Rodák,sk SVK,GK,Fulham,22.0,1996.0,33,33,2896,0,0,0,0,3,1,0.0,0.0,0.0,0.0,0.0
+566,567,Joe Rodon,wal WAL,DF,Swansea City,21.0,1997.0,21,20,1793,0,1,0,0,2,0,0.0,0.05,0.05,0.0,0.05
+567,568,Rodri,es ESP,FW,Bristol City,29.0,1990.0,6,1,155,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+568,569,Mads Roerslev,dk DEN,DFMF,Brentford,20.0,1999.0,11,5,499,0,1,0,0,1,0,0.0,0.18,0.18,0.0,0.18
+569,570,Mahlon Romeo,ag ATG,DFMF,Millwall,23.0,1995.0,43,43,3744,0,1,0,0,5,0,0.0,0.02,0.02,0.0,0.02
+570,571,Wayne Rooney,eng ENG,MF,Derby County,33.0,1985.0,20,20,1734,5,3,2,2,1,0,0.26,0.16,0.42,0.16,0.31
+571,572,Kelle Roos,nl NED,GK,Derby County,27.0,1992.0,22,22,1905,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+572,573,Joe Rothwell,eng ENG,MF,Blackburn,24.0,1995.0,36,21,1898,2,2,0,0,3,0,0.09,0.09,0.19,0.09,0.19
+573,574,Wayne Routledge,eng ENG,MFFW,Swansea City,34.0,1985.0,21,10,955,4,3,0,0,1,0,0.38,0.28,0.66,0.38,0.66
+574,575,Aaron Rowe,eng ENG,MF,Huddersfield,18.0,2000.0,1,1,45,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+575,576,Tommy Rowe,eng ENG,MFDF,Bristol City,30.0,1988.0,29,24,2160,2,3,0,0,4,0,0.08,0.12,0.21,0.08,0.21
+576,577,Declan Rudd,eng ENG,GK,Preston,28.0,1991.0,46,46,4140,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+577,578,Pelly Ruddock Mpanzu,eng ENG,MF,Luton Town,26.0,1993.0,44,40,3633,3,0,0,0,6,0,0.07,0.0,0.07,0.07,0.07
+578,579,Samuel Şahin-Radlinger,at AUT,GK,Barnsley,26.0,1992.0,18,18,1620,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+579,580,Brice Samba,fr FRA,GK,Nott'ham Forest,25.0,1994.0,40,40,3600,0,0,0,0,7,0,0.0,0.0,0.0,0.0,0.0
+580,581,Dominic Samuel,eng ENG,FWMF,Blackburn,25.0,1994.0,15,7,627,2,0,0,0,1,0,0.29,0.0,0.29,0.29,0.29
+581,582,Martin Samuelsen,no NOR,MF,Hull City,22.0,1997.0,7,3,288,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+582,583,Dion Sanderson,eng ENG,DF,Cardiff City,19.0,1999.0,10,9,749,0,2,0,0,2,0,0.0,0.24,0.24,0.0,0.24
+583,584,Mouhamadou-Naby Sarr,fr FRA,DF,Charlton Ath,25.0,1993.0,29,26,2227,3,4,0,0,3,0,0.12,0.16,0.28,0.12,0.28
+584,585,George Saville,nir NIR,MF,Middlesbrough,26.0,1993.0,37,31,2493,1,2,0,0,9,1,0.04,0.07,0.11,0.04,0.11
+585,586,Romaine Sawyers,kn SKN,MF,West Brom,27.0,1991.0,42,42,3717,1,1,0,0,10,1,0.02,0.02,0.05,0.02,0.05
+586,587,Christopher Schindler,de GER,DF,Huddersfield,29.0,1990.0,45,45,4050,2,1,0,0,3,0,0.04,0.02,0.07,0.04,0.07
+587,588,Patrick Schmidt,at AUT,FW,Barnsley,21.0,1998.0,29,2,440,3,2,0,0,0,0,0.61,0.41,1.02,0.61,1.02
+588,589,Ryan Schofield,eng ENG,GK,Huddersfield,19.0,1999.0,1,1,90,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+589,590,James Scott,sco SCO,MFFW,Hull City,18.0,2000.0,7,4,278,1,0,0,0,0,0,0.32,0.0,0.32,0.32,0.32
+590,591,Josh Scowen,eng ENG,MF,QPR,26.0,1993.0,18,8,886,0,1,0,0,3,0,0.0,0.1,0.1,0.0,0.1
+591,592,Steve Seddon,eng ENG,DF,Birmingham City,21.0,1997.0,4,3,223,0,2,0,0,1,0,0.0,0.81,0.81,0.0,0.81
+592,593,Alfa Semedo,pt POR,MF,Nott'ham Forest,21.0,1997.0,24,10,1011,2,0,0,0,2,0,0.18,0.0,0.18,0.18,0.18
+593,594,Antoine Semenyo,eng ENG,FW,Bristol City,19.0,2000.0,9,3,302,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+594,595,Steven Sessegnon,eng ENG,DF,Fulham,19.0,2000.0,14,9,714,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+595,596,Jamie Shackleton,eng ENG,MF,Leeds United,19.0,1999.0,22,5,473,2,0,0,0,0,0,0.38,0.0,0.38,0.38,0.38
+596,597,Liam Shaw,eng ENG,MF,Sheffield Weds,18.0,2001.0,2,1,68,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+597,598,Ryan Shawcross,eng ENG,DF,Stoke City,31.0,1987.0,5,5,310,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+598,599,James Shea,eng ENG,GK,Luton Town,28.0,1991.0,13,13,1170,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+599,600,Alan Sheehan,ie IRL,MFDF,Luton Town,32.0,1986.0,4,2,223,0,1,0,0,0,0,0.0,0.4,0.4,0.0,0.4
+600,601,Andrew Shinnie,sco SCO,MF,Luton Town,30.0,1989.0,21,16,1346,1,2,0,0,4,0,0.07,0.13,0.2,0.07,0.2
+601,602,Graeme Shinnie,sco SCO,MF,Derby County,27.0,1991.0,23,12,1165,2,1,0,0,8,0,0.15,0.08,0.23,0.15,0.23
+602,603,Olamide Shodipo,ie IRL,MFFW,QPR,22.0,1997.0,12,2,313,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+603,604,Ryan Shotton,eng ENG,DF,Middlesbrough,30.0,1988.0,21,20,1740,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+604,605,Toby Sibbick,eng ENG,DFMF,Barnsley,20.0,1999.0,18,17,1516,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+605,606,Louie Sibley,eng ENG,MF,Derby County,,,11,9,733,5,2,0,0,5,1,0.61,0.25,0.86,0.61,0.86
+606,607,Leonardo da Silva Lopes,eng ENG,MFDF,Hull City,20.0,1998.0,40,33,3073,2,3,0,0,5,0,0.06,0.09,0.15,0.06,0.15
+607,608,Tiago Silva,pt POR,MF,Nott'ham Forest,26.0,1993.0,44,34,3037,3,4,0,0,7,0,0.09,0.12,0.21,0.09,0.21
+608,609,Elliot Simoes,pt POR,MFFW,Barnsley,19.0,1999.0,17,6,632,2,0,0,0,2,0,0.28,0.0,0.28,0.28,0.28
+609,610,Danny Simpson,eng ENG,DF,Huddersfield,32.0,1987.0,24,23,1989,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+610,611,Scott Sinclair,eng ENG,MF,Preston,30.0,1989.0,18,11,894,3,0,0,0,0,0,0.3,0.0,0.3,0.3,0.3
+611,612,Jiří Skalák,cz CZE,MF,Millwall,27.0,1992.0,12,4,360,1,0,0,0,1,0,0.25,0.0,0.25,0.25,0.25
+612,613,Simon Sluga,hr CRO,GK,Luton Town,26.0,1993.0,33,33,2970,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+613,614,Brad Smith,au AUS,DFMF,Cardiff City,25.0,1994.0,3,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+614,615,Jordan Smith,eng ENG,GK,Nott'ham Forest,24.0,1994.0,2,2,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+615,616,Korey Smith,eng ENG,MF,Bristol City,28.0,1991.0,22,19,1686,0,0,0,0,4,0,0.0,0.0,0.0,0.0,0.0
+616,617,Matt Smith,eng ENG,FW,Millwall,30.0,1989.0,41,20,1932,12,4,0,0,3,0,0.56,0.19,0.75,0.56,0.75
+617,618,Matthew Smith,wal WAL,MF,Charlton Ath,19.0,1999.0,2,0,63,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+618,619,Matthew Smith,wal WAL,MF,QPR,19.0,1999.0,8,2,199,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+619,620,Tommy Smith,eng ENG,DF,Stoke City,27.0,1992.0,30,27,2513,0,4,0,0,5,0,0.0,0.14,0.14,0.0,0.14
+620,621,Emile Smith-Rowe,eng ENG,MF,Huddersfield,19.0,2000.0,19,13,1176,2,2,0,0,1,0,0.15,0.15,0.31,0.15,0.31
+621,622,Alex Smithies,eng ENG,GK,Cardiff City,29.0,1990.0,30,30,2700,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+622,623,Michael Sollbauer,at AUT,DF,Barnsley,29.0,1990.0,17,17,1530,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+623,624,Chris Solly,eng ENG,DFMF,Charlton Ath,28.0,1991.0,14,12,1069,0,1,0,0,2,0,0.0,0.08,0.08,0.0,0.08
+624,625,Samba Sow,ml MLI,MF,Nott'ham Forest,30.0,1989.0,25,22,1675,0,1,0,0,9,0,0.0,0.05,0.05,0.0,0.05
+625,626,Djed Spence,eng ENG,MFDF,Middlesbrough,18.0,2000.0,22,18,1535,1,0,0,0,2,0,0.06,0.0,0.06,0.06,0.06
+626,627,Jay Stansfield,eng ENG,FW,Fulham,,,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+627,628,Richard Stearman,eng ENG,DF,Huddersfield,31.0,1987.0,17,17,1478,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0
+628,629,Dujon Sterling,eng ENG,DF,Wigan Athletic,19.0,1999.0,8,7,614,0,1,0,0,1,0,0.0,0.15,0.15,0.0,0.15
+629,630,Jordan Stevens,eng ENG,MF,Leeds United,19.0,2000.0,4,0,57,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+630,631,Kevin Stewart,eng ENG,MF,Hull City,25.0,1993.0,27,21,1968,2,1,0,0,4,0,0.09,0.05,0.14,0.09,0.14
+631,632,Jayden Stockley,eng ENG,FW,Preston,25.0,1993.0,32,9,1156,4,3,0,0,5,0,0.31,0.23,0.54,0.31,0.54
+632,633,Dejan Stojanović,at AUT,GK,Middlesbrough,26.0,1993.0,8,8,720,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+633,634,Jordan Storey,eng ENG,DF,Preston,21.0,1997.0,10,7,725,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+634,635,Pascal Struijk,nl NED,MF,Leeds United,19.0,1999.0,5,2,218,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+635,636,Callum Styles,eng ENG,MF,Barnsley,19.0,2000.0,17,5,678,1,0,0,0,1,0,0.13,0.0,0.13,0.13,0.13
+636,637,Ivan Šunjić,hr CRO,MF,Birmingham City,22.0,1996.0,40,37,3267,3,0,0,0,9,0,0.08,0.0,0.08,0.08,0.08
+637,638,Sam Surridge,eng ENG,FW,Swansea City,21.0,1998.0,20,7,783,4,0,0,0,0,0,0.46,0.0,0.46,0.46,0.46
+638,639,John Swift,eng ENG,MF,Reading,24.0,1995.0,41,40,3378,6,10,0,0,6,1,0.16,0.27,0.43,0.16,0.43
+639,640,Sammie Szmodics,eng ENG,FW,Bristol City,23.0,1995.0,3,1,109,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+640,641,Lasse Sørensen,dk DEN,MF,Stoke City,19.0,1999.0,6,2,183,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+641,642,Ryan Tafazolli,eng ENG,DF,Hull City,27.0,1991.0,15,7,820,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+642,643,Marcus Tavernier,eng ENG,MFFW,Middlesbrough,20.0,1999.0,37,27,2536,3,5,0,0,4,0,0.11,0.18,0.28,0.11,0.28
+643,644,Lyle Taylor,ms MSR,FW,Charlton Ath,29.0,1990.0,22,17,1605,11,1,4,4,4,0,0.62,0.06,0.67,0.39,0.45
+644,645,Matty Taylor,eng ENG,FW,Bristol City,29.0,1990.0,1,0,11,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+645,646,Mamadou Thiam,sn SEN,MFFW,Barnsley,24.0,1995.0,8,3,336,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+646,647,Luke Thomas,eng ENG,MF,Barnsley,20.0,1999.0,39,24,2315,1,4,0,0,5,0,0.04,0.16,0.19,0.04,0.19
+647,648,Ben Thompson,eng ENG,MF,Millwall,23.0,1995.0,28,20,1839,1,0,0,0,5,0,0.05,0.0,0.05,0.05,0.05
+648,649,Dominic Thompson,eng ENG,DF,Brentford,19.0,2000.0,2,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+649,650,Jordan Thompson,nir NIR,MF,Stoke City,22.0,1997.0,15,8,620,0,1,0,0,2,0,0.0,0.15,0.15,0.0,0.15
+650,651,Harry Toffolo,eng ENG,DF,Huddersfield,23.0,1995.0,19,19,1710,1,2,0,0,2,0,0.05,0.11,0.16,0.05,0.16
+651,652,Lee Tomlin,eng ENG,MF,Cardiff City,30.0,1989.0,33,24,2164,8,10,0,0,8,0,0.33,0.42,0.75,0.33,0.75
+652,653,Jon Toral,es ESP,MF,Hull City,24.0,1995.0,14,8,610,0,3,0,0,2,0,0.0,0.44,0.44,0.0,0.44
+653,654,Conor Townsend,eng ENG,DF,West Brom,26.0,1993.0,27,19,1902,0,1,0,0,4,0,0.0,0.05,0.05,0.0,0.05
+654,655,Lewis Travis,eng ENG,MF,Blackburn,21.0,1997.0,43,41,3458,2,2,0,0,13,0,0.05,0.05,0.1,0.05,0.1
+655,656,Connal Trueman,eng ENG,GK,Birmingham City,23.0,1996.0,10,10,900,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+656,657,Ryan Tunnicliffe,eng ENG,MF,Luton Town,26.0,1992.0,40,37,3243,1,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06
+657,658,Josh Tymon,eng ENG,DF,Stoke City,20.0,1999.0,2,1,85,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+658,659,Osaze Urhoghide,eng ENG,DF,Sheffield Weds,,,3,3,177,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0
+659,660,Jack Vale,wal WAL,FW,Blackburn,18.0,2001.0,1,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+660,661,Joel Valencia,ec ECU,FW,Brentford,24.0,1994.0,19,1,334,1,0,0,0,0,0,0.27,0.0,0.27,0.27,0.27
+661,662,Isaac Vassell,eng ENG,FWMF,Cardiff City,25.0,1993.0,2,0,46,1,0,0,0,0,0,1.96,0.0,1.96,1.96,1.96
+662,663,Will Vaulks,wal WAL,MF,Cardiff City,25.0,1993.0,27,18,1683,4,0,0,0,3,0,0.21,0.0,0.21,0.21,0.21
+663,664,James Vennings,eng ENG,MF,Charlton Ath,18.0,2000.0,3,0,68,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+664,665,Thibaud Verlinden,be BEL,MF,Stoke City,20.0,1999.0,5,0,58,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+665,666,Fran Villalba,es ESP,MF,Birmingham City,21.0,1998.0,17,15,1213,1,0,0,0,0,0,0.07,0.0,0.07,0.07,0.07
+666,667,João Virgínia,pt POR,GK,Reading,19.0,1999.0,2,2,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+667,668,Sam Vokes,wal WAL,FW,Stoke City,29.0,1989.0,36,18,1706,5,2,0,0,0,0,0.26,0.11,0.37,0.26,0.37
+668,669,Zak Vyner,eng ENG,DF,Bristol City,22.0,1997.0,8,4,496,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+669,670,Martyn Waghorn,eng ENG,MFFW,Derby County,29.0,1990.0,43,36,3179,12,3,2,4,6,1,0.34,0.08,0.42,0.28,0.37
+670,671,Stephen Walker,eng ENG,FW,Middlesbrough,18.0,2000.0,7,1,139,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+671,672,Tyler Walker,eng ENG,FW,Nott'ham Forest,22.0,1996.0,7,1,138,1,0,0,0,0,0,0.65,0.0,0.65,0.65,0.65
+672,673,Jed Wallace,eng ENG,MFFW,Millwall,25.0,1994.0,43,43,3786,10,13,5,6,7,1,0.24,0.31,0.55,0.12,0.43
+673,674,Lee Wallace,sco SCO,DF,QPR,31.0,1987.0,11,10,854,0,0,0,0,2,1,0.0,0.0,0.0,0.0,0.0
+674,675,Murray Wallace,sco SCO,DFMF,Millwall,26.0,1993.0,43,38,3417,0,2,0,0,7,0,0.0,0.05,0.05,0.0,0.05
+675,676,Christian Walton,eng ENG,GK,Blackburn,23.0,1995.0,46,46,4140,0,1,0,0,1,0,0.0,0.02,0.02,0.0,0.02
+676,677,Jack Walton,eng ENG,GK,Barnsley,21.0,1998.0,9,9,810,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+677,678,Danny Ward,eng ENG,FWMF,Cardiff City,27.0,1991.0,28,7,942,7,0,0,0,0,1,0.67,0.0,0.67,0.67,0.67
+678,679,Stephen Ward,ie IRL,DF,Stoke City,33.0,1985.0,15,15,1219,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+679,680,Marley Watkins,wal WAL,MFFW,Bristol City,28.0,1990.0,9,5,378,1,0,0,0,0,0,0.24,0.0,0.24,0.24,0.24
+680,681,Ollie Watkins,eng ENG,FW,Brentford,23.0,1995.0,46,46,4128,25,2,0,1,4,0,0.55,0.04,0.59,0.55,0.59
+681,682,Ben Watson,eng ENG,MF,Nott'ham Forest,34.0,1985.0,45,45,3996,3,4,0,0,8,0,0.07,0.09,0.16,0.07,0.16
+682,683,Andreas Weimann,at AUT,FWMF,Bristol City,27.0,1991.0,45,42,3600,9,7,0,0,8,0,0.23,0.17,0.4,0.23,0.4
+683,684,Nahki Wells,bm BER,FW,Bristol City,29.0,1990.0,17,13,1187,5,0,0,0,0,0,0.38,0.0,0.38,0.38,0.38
+684,685,Nahki Wells,bm BER,FW,QPR,29.0,1990.0,26,20,1607,13,3,0,0,4,0,0.73,0.17,0.9,0.73,0.9
+685,686,Keiren Westwood,ie IRL,GK,Sheffield Weds,34.0,1984.0,14,14,1249,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+686,687,Ben White,eng ENG,DF,Leeds United,21.0,1997.0,46,46,4140,1,2,0,0,6,0,0.02,0.04,0.07,0.02,0.07
+687,688,Morgan Whittaker,eng ENG,MF,Derby County,18.0,2001.0,16,1,283,1,1,0,0,1,0,0.32,0.32,0.64,0.32,0.64
+688,689,Gavin Whyte,nir NIR,MF,Cardiff City,23.0,1996.0,24,15,1263,0,1,0,0,1,0,0.0,0.07,0.07,0.0,0.07
+689,690,Connor Wickham,eng ENG,FW,Sheffield Weds,26.0,1993.0,13,8,894,2,0,0,0,1,0,0.2,0.0,0.2,0.2,0.2
+690,691,Jordy de Wijs,nl NED,DF,Hull City,24.0,1995.0,35,35,3036,2,1,0,0,9,0,0.06,0.03,0.09,0.06,0.09
+691,692,Joe Wildsmith,eng ENG,GK,Sheffield Weds,23.0,1995.0,9,9,810,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+692,693,Mallik Wilks,eng ENG,MFFW,Barnsley,20.0,1998.0,15,8,822,1,0,0,0,5,0,0.11,0.0,0.11,0.11,0.11
+693,694,Mallik Wilks,eng ENG,MF,Hull City,20.0,1998.0,18,16,1269,5,0,0,0,2,0,0.35,0.0,0.35,0.35,0.35
+694,695,Ashley Williams,wal WAL,DF,Bristol City,34.0,1984.0,32,32,2766,2,1,0,0,3,2,0.07,0.03,0.1,0.07,0.1
+695,696,Ben Williams,wal WAL,DF,Barnsley,20.0,1999.0,20,16,1415,0,1,0,0,4,1,0.0,0.06,0.06,0.0,0.06
+696,697,Derrick Williams,ie IRL,DF,Blackburn,26.0,1993.0,17,17,1530,3,0,0,0,4,0,0.18,0.0,0.18,0.18,0.18
+697,698,Joe Williams,eng ENG,MF,Wigan Athletic,22.0,1996.0,38,34,3008,1,3,0,0,14,1,0.03,0.09,0.12,0.03,0.12
+698,699,Jonny Williams,wal WAL,FWMF,Charlton Ath,25.0,1993.0,26,15,1368,0,5,0,0,1,0,0.0,0.33,0.33,0.0,0.33
+699,700,Jordan Williams,eng ENG,DF,Barnsley,19.0,1999.0,30,29,2503,0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0
+700,701,Shaun Williams,ie IRL,MF,Millwall,32.0,1986.0,32,28,2479,2,2,0,0,3,1,0.07,0.07,0.15,0.07,0.15
+701,702,Chris Willock,eng ENG,MF,Huddersfield,21.0,1998.0,14,8,684,2,0,0,0,2,0,0.26,0.0,0.26,0.26,0.26
+702,703,Ben Wilmot,eng ENG,DF,Swansea City,19.0,1999.0,21,16,1491,2,0,0,0,3,0,0.12,0.0,0.12,0.12,0.12
+703,704,Josh Windass,eng ENG,MFFW,Sheffield Weds,25.0,1994.0,9,6,468,3,0,0,0,0,0,0.58,0.0,0.58,0.58,0.58
+704,705,Josh Windass,eng ENG,MFFW,Wigan Athletic,25.0,1994.0,15,12,1077,3,0,0,2,1,0,0.25,0.0,0.25,0.25,0.25
+705,706,Lewis Wing,eng ENG,MF,Middlesbrough,24.0,1995.0,40,28,2749,7,2,0,0,6,0,0.23,0.07,0.29,0.23,0.29
+706,707,Sam Winnall,eng ENG,FW,Sheffield Weds,28.0,1991.0,13,6,504,1,0,0,0,0,0,0.18,0.0,0.18,0.18,0.18
+707,708,Andre Wisdom,eng ENG,DF,Derby County,26.0,1993.0,18,16,1443,0,1,0,0,3,0,0.0,0.06,0.06,0.0,0.06
+708,709,Matthew Wolfe,eng ENG,MF,Barnsley,19.0,2000.0,1,0,24,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+709,710,Nathan Wood-Gordon,eng ENG,DF,Middlesbrough,17.0,2002.0,1,0,54,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+710,711,Freddie Woodman,eng ENG,GK,Swansea City,22.0,1997.0,43,43,3869,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+711,712,Cauley Woodrow,eng ENG,FWMF,Barnsley,24.0,1994.0,40,37,3281,14,2,2,2,4,0,0.38,0.05,0.44,0.33,0.38
+712,713,Ryan Woods,eng ENG,MF,Millwall,25.0,1993.0,18,17,1529,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+713,714,Ryan Woods,eng ENG,MF,Stoke City,25.0,1993.0,8,8,593,0,1,0,0,2,0,0.0,0.15,0.15,0.0,0.15
+714,715,Joe Worrall,eng ENG,DF,Nott'ham Forest,22.0,1997.0,46,46,4140,1,4,0,0,5,0,0.02,0.09,0.11,0.02,0.11
+715,716,Bailey Wright,au AUS,DF,Bristol City,27.0,1992.0,3,3,180,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+716,717,Ryan Yates,eng ENG,MF,Nott'ham Forest,21.0,1997.0,27,16,1503,3,0,0,0,0,1,0.18,0.0,0.18,0.18,0.18
+717,718,Dru Yearwood,eng ENG,MF,Brentford,19.0,2000.0,2,0,65,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+718,719,Andy Yiadom,gh GHA,MFDF,Reading,27.0,1991.0,24,24,2134,1,4,0,0,8,0,0.04,0.17,0.21,0.04,0.21
+719,720,Jan Žambůrek,cz CZE,FW,Brentford,18.0,2001.0,16,1,230,0,1,0,0,0,0,0.0,0.39,0.39,0.0,0.39
+720,721,Kenneth Zohore,dk DEN,FW,West Brom,25.0,1994.0,17,5,659,3,0,2,2,0,0,0.41,0.0,0.41,0.14,0.14
